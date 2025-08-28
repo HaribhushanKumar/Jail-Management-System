@@ -1,0 +1,6448 @@
+[{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5780"
+  },
+  "id": "1",
+  "cellNumber": "B-001",
+  "block": "Block B",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM394"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5781"
+  },
+  "id": "2",
+  "cellNumber": "M-001",
+  "block": "Medical",
+  "capacity": 1,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5782"
+  },
+  "id": "3",
+  "cellNumber": "A-001",
+  "block": "Block A",
+  "capacity": 3,
+  "currentOccupancy": 3,
+  "status": "Occupied",
+  "inmates": [
+    "INM062",
+    "INM079",
+    "INM109"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5783"
+  },
+  "id": "4",
+  "cellNumber": "S-001",
+  "block": "Solitary",
+  "capacity": 1,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5784"
+  },
+  "id": "5",
+  "cellNumber": "B-002",
+  "block": "Block B",
+  "capacity": 2,
+  "currentOccupancy": 2,
+  "status": "Occupied",
+  "inmates": [
+    "INM324",
+    "INM561"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5785"
+  },
+  "id": "6",
+  "cellNumber": "A-002",
+  "block": "Block A",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM203"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5786"
+  },
+  "id": "7",
+  "cellNumber": "B-003",
+  "block": "Block B",
+  "capacity": 3,
+  "currentOccupancy": 3,
+  "status": "Occupied",
+  "inmates": [
+    "INM481",
+    "INM495",
+    "INM521"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5787"
+  },
+  "id": "8",
+  "cellNumber": "A-003",
+  "block": "Block A",
+  "capacity": 3,
+  "currentOccupancy": 3,
+  "status": "Occupied",
+  "inmates": [
+    "INM023",
+    "INM161",
+    "INM254"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5788"
+  },
+  "id": "9",
+  "cellNumber": "B-004",
+  "block": "Block B",
+  "capacity": 3,
+  "currentOccupancy": 3,
+  "status": "Occupied",
+  "inmates": [
+    "INM330",
+    "INM375",
+    "INM457"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5789"
+  },
+  "id": "10",
+  "cellNumber": "A-004",
+  "block": "Block A",
+  "capacity": 4,
+  "currentOccupancy": 1,
+  "status": "Available",
+  "inmates": [
+    "INM305"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd578a"
+  },
+  "id": "11",
+  "cellNumber": "B-005",
+  "block": "Block B",
+  "capacity": 4,
+  "currentOccupancy": 1,
+  "status": "Available",
+  "inmates": [
+    "INM418"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd578b"
+  },
+  "id": "12",
+  "cellNumber": "B-006",
+  "block": "Block B",
+  "capacity": 3,
+  "currentOccupancy": 3,
+  "status": "Occupied",
+  "inmates": [
+    "INM507",
+    "INM576",
+    "INM581"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd578c"
+  },
+  "id": "13",
+  "cellNumber": "A-005",
+  "block": "Block A",
+  "capacity": 3,
+  "currentOccupancy": 1,
+  "status": "Available",
+  "inmates": [
+    "INM061"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd578d"
+  },
+  "id": "14",
+  "cellNumber": "M-002",
+  "block": "Medical",
+  "capacity": 3,
+  "currentOccupancy": 1,
+  "status": "Available",
+  "inmates": [
+    "INM005"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd578e"
+  },
+  "id": "15",
+  "cellNumber": "M-003",
+  "block": "Medical",
+  "capacity": 4,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd578f"
+  },
+  "id": "16",
+  "cellNumber": "M-004",
+  "block": "Medical",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM024"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5790"
+  },
+  "id": "17",
+  "cellNumber": "M-005",
+  "block": "Medical",
+  "capacity": 3,
+  "currentOccupancy": 1,
+  "status": "Available",
+  "inmates": [
+    "INM038"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5791"
+  },
+  "id": "18",
+  "cellNumber": "A-006",
+  "block": "Block A",
+  "capacity": 2,
+  "currentOccupancy": 2,
+  "status": "Occupied",
+  "inmates": [
+    "INM041",
+    "INM088"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5792"
+  },
+  "id": "19",
+  "cellNumber": "M-006",
+  "block": "Medical",
+  "capacity": 2,
+  "currentOccupancy": 1,
+  "status": "Available",
+  "inmates": [
+    "INM027"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5793"
+  },
+  "id": "20",
+  "cellNumber": "M-007",
+  "block": "Medical",
+  "capacity": 3,
+  "currentOccupancy": 2,
+  "status": "Available",
+  "inmates": [
+    "INM004",
+    "INM008"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5794"
+  },
+  "id": "21",
+  "cellNumber": "B-007",
+  "block": "Block B",
+  "capacity": 1,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5795"
+  },
+  "id": "22",
+  "cellNumber": "A-007",
+  "block": "Block A",
+  "capacity": 2,
+  "currentOccupancy": 1,
+  "status": "Available",
+  "inmates": [
+    "INM271"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5796"
+  },
+  "id": "23",
+  "cellNumber": "B-008",
+  "block": "Block B",
+  "capacity": 3,
+  "currentOccupancy": 3,
+  "status": "Occupied",
+  "inmates": [
+    "INM327",
+    "INM381",
+    "INM403"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5797"
+  },
+  "id": "24",
+  "cellNumber": "A-008",
+  "block": "Block A",
+  "capacity": 3,
+  "currentOccupancy": 3,
+  "status": "Occupied",
+  "inmates": [
+    "INM143",
+    "INM288",
+    "INM303"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5798"
+  },
+  "id": "25",
+  "cellNumber": "B-009",
+  "block": "Block B",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM347"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5799"
+  },
+  "id": "26",
+  "cellNumber": "S-002",
+  "block": "Solitary",
+  "capacity": 1,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd579a"
+  },
+  "id": "27",
+  "cellNumber": "M-008",
+  "block": "Medical",
+  "capacity": 2,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd579b"
+  },
+  "id": "28",
+  "cellNumber": "B-010",
+  "block": "Block B",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM407"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd579c"
+  },
+  "id": "29",
+  "cellNumber": "S-003",
+  "block": "Solitary",
+  "capacity": 1,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd579d"
+  },
+  "id": "30",
+  "cellNumber": "M-009",
+  "block": "Medical",
+  "capacity": 4,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd579e"
+  },
+  "id": "31",
+  "cellNumber": "S-004",
+  "block": "Solitary",
+  "capacity": 1,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd579f"
+  },
+  "id": "32",
+  "cellNumber": "S-005",
+  "block": "Solitary",
+  "capacity": 1,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57a0"
+  },
+  "id": "33",
+  "cellNumber": "A-009",
+  "block": "Block A",
+  "capacity": 1,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57a1"
+  },
+  "id": "34",
+  "cellNumber": "A-010",
+  "block": "Block A",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM066"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57a2"
+  },
+  "id": "35",
+  "cellNumber": "M-010",
+  "block": "Medical",
+  "capacity": 3,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57a3"
+  },
+  "id": "36",
+  "cellNumber": "B-011",
+  "block": "Block B",
+  "capacity": 2,
+  "currentOccupancy": 1,
+  "status": "Available",
+  "inmates": [
+    "INM548"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57a4"
+  },
+  "id": "37",
+  "cellNumber": "S-006",
+  "block": "Solitary",
+  "capacity": 1,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57a5"
+  },
+  "id": "38",
+  "cellNumber": "M-011",
+  "block": "Medical",
+  "capacity": 1,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57a6"
+  },
+  "id": "39",
+  "cellNumber": "A-011",
+  "block": "Block A",
+  "capacity": 2,
+  "currentOccupancy": 1,
+  "status": "Available",
+  "inmates": [
+    "INM040"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57a7"
+  },
+  "id": "40",
+  "cellNumber": "M-012",
+  "block": "Medical",
+  "capacity": 4,
+  "currentOccupancy": 2,
+  "status": "Available",
+  "inmates": [
+    "INM029",
+    "INM035"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57a8"
+  },
+  "id": "41",
+  "cellNumber": "A-012",
+  "block": "Block A",
+  "capacity": 4,
+  "currentOccupancy": 2,
+  "status": "Available",
+  "inmates": [
+    "INM167",
+    "INM218"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57a9"
+  },
+  "id": "42",
+  "cellNumber": "M-013",
+  "block": "Medical",
+  "capacity": 4,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57aa"
+  },
+  "id": "43",
+  "cellNumber": "B-012",
+  "block": "Block B",
+  "capacity": 4,
+  "currentOccupancy": 2,
+  "status": "Available",
+  "inmates": [
+    "INM395",
+    "INM406"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57ab"
+  },
+  "id": "44",
+  "cellNumber": "A-013",
+  "block": "Block A",
+  "capacity": 3,
+  "currentOccupancy": 1,
+  "status": "Available",
+  "inmates": [
+    "INM301"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57ac"
+  },
+  "id": "45",
+  "cellNumber": "M-014",
+  "block": "Medical",
+  "capacity": 4,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57ad"
+  },
+  "id": "46",
+  "cellNumber": "M-015",
+  "block": "Medical",
+  "capacity": 4,
+  "currentOccupancy": 1,
+  "status": "Available",
+  "inmates": [
+    "INM013"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57ae"
+  },
+  "id": "47",
+  "cellNumber": "M-016",
+  "block": "Medical",
+  "capacity": 3,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57af"
+  },
+  "id": "48",
+  "cellNumber": "A-014",
+  "block": "Block A",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM022"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57b0"
+  },
+  "id": "49",
+  "cellNumber": "A-015",
+  "block": "Block A",
+  "capacity": 2,
+  "currentOccupancy": 1,
+  "status": "Available",
+  "inmates": [
+    "INM076"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57b1"
+  },
+  "id": "50",
+  "cellNumber": "A-016",
+  "block": "Block A",
+  "capacity": 2,
+  "currentOccupancy": 2,
+  "status": "Occupied",
+  "inmates": [
+    "INM055",
+    "INM139"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57b2"
+  },
+  "id": "51",
+  "cellNumber": "S-007",
+  "block": "Solitary",
+  "capacity": 1,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57b3"
+  },
+  "id": "52",
+  "cellNumber": "B-013",
+  "block": "Block B",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM363"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57b4"
+  },
+  "id": "53",
+  "cellNumber": "S-008",
+  "block": "Solitary",
+  "capacity": 1,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57b5"
+  },
+  "id": "54",
+  "cellNumber": "M-017",
+  "block": "Medical",
+  "capacity": 4,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57b6"
+  },
+  "id": "55",
+  "cellNumber": "S-009",
+  "block": "Solitary",
+  "capacity": 1,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57b7"
+  },
+  "id": "56",
+  "cellNumber": "S-010",
+  "block": "Solitary",
+  "capacity": 1,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57b8"
+  },
+  "id": "57",
+  "cellNumber": "A-017",
+  "block": "Block A",
+  "capacity": 3,
+  "currentOccupancy": 2,
+  "status": "Available",
+  "inmates": [
+    "INM162",
+    "INM306"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57b9"
+  },
+  "id": "58",
+  "cellNumber": "A-018",
+  "block": "Block A",
+  "capacity": 2,
+  "currentOccupancy": 2,
+  "status": "Occupied",
+  "inmates": [
+    "INM085",
+    "INM132"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57ba"
+  },
+  "id": "59",
+  "cellNumber": "A-019",
+  "block": "Block A",
+  "capacity": 2,
+  "currentOccupancy": 2,
+  "status": "Occupied",
+  "inmates": [
+    "INM156",
+    "INM159"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57bb"
+  },
+  "id": "60",
+  "cellNumber": "B-014",
+  "block": "Block B",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM323"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57bc"
+  },
+  "id": "61",
+  "cellNumber": "S-011",
+  "block": "Solitary",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM047"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57bd"
+  },
+  "id": "62",
+  "cellNumber": "S-012",
+  "block": "Solitary",
+  "capacity": 1,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57be"
+  },
+  "id": "63",
+  "cellNumber": "S-013",
+  "block": "Solitary",
+  "capacity": 1,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57bf"
+  },
+  "id": "64",
+  "cellNumber": "A-020",
+  "block": "Block A",
+  "capacity": 2,
+  "currentOccupancy": 2,
+  "status": "Occupied",
+  "inmates": [
+    "INM064",
+    "INM087"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57c0"
+  },
+  "id": "65",
+  "cellNumber": "B-015",
+  "block": "Block B",
+  "capacity": 4,
+  "currentOccupancy": 3,
+  "status": "Available",
+  "inmates": [
+    "INM328",
+    "INM439",
+    "INM572"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57c1"
+  },
+  "id": "66",
+  "cellNumber": "B-016",
+  "block": "Block B",
+  "capacity": 3,
+  "currentOccupancy": 3,
+  "status": "Occupied",
+  "inmates": [
+    "INM443",
+    "INM506",
+    "INM574"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57c2"
+  },
+  "id": "67",
+  "cellNumber": "A-021",
+  "block": "Block A",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM224"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57c3"
+  },
+  "id": "68",
+  "cellNumber": "S-014",
+  "block": "Solitary",
+  "capacity": 1,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57c4"
+  },
+  "id": "69",
+  "cellNumber": "B-017",
+  "block": "Block B",
+  "capacity": 4,
+  "currentOccupancy": 2,
+  "status": "Available",
+  "inmates": [
+    "INM549",
+    "INM579"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57c5"
+  },
+  "id": "70",
+  "cellNumber": "B-018",
+  "block": "Block B",
+  "capacity": 4,
+  "currentOccupancy": 2,
+  "status": "Available",
+  "inmates": [
+    "INM562",
+    "INM571"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57c6"
+  },
+  "id": "71",
+  "cellNumber": "A-022",
+  "block": "Block A",
+  "capacity": 3,
+  "currentOccupancy": 3,
+  "status": "Occupied",
+  "inmates": [
+    "INM110",
+    "INM114",
+    "INM129"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57c7"
+  },
+  "id": "72",
+  "cellNumber": "M-018",
+  "block": "Medical",
+  "capacity": 1,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57c8"
+  },
+  "id": "73",
+  "cellNumber": "B-019",
+  "block": "Block B",
+  "capacity": 3,
+  "currentOccupancy": 2,
+  "status": "Available",
+  "inmates": [
+    "INM555",
+    "INM596"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57c9"
+  },
+  "id": "74",
+  "cellNumber": "B-020",
+  "block": "Block B",
+  "capacity": 4,
+  "currentOccupancy": 4,
+  "status": "Occupied",
+  "inmates": [
+    "INM421",
+    "INM450",
+    "INM530",
+    "INM559"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57ca"
+  },
+  "id": "75",
+  "cellNumber": "A-023",
+  "block": "Block A",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM051"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57cb"
+  },
+  "id": "76",
+  "cellNumber": "S-015",
+  "block": "Solitary",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM051"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57cc"
+  },
+  "id": "77",
+  "cellNumber": "M-019",
+  "block": "Medical",
+  "capacity": 3,
+  "currentOccupancy": 1,
+  "status": "Available",
+  "inmates": [
+    "INM045"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57cd"
+  },
+  "id": "78",
+  "cellNumber": "B-021",
+  "block": "Block B",
+  "capacity": 2,
+  "currentOccupancy": 1,
+  "status": "Available",
+  "inmates": [
+    "INM365"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57ce"
+  },
+  "id": "79",
+  "cellNumber": "M-020",
+  "block": "Medical",
+  "capacity": 2,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57cf"
+  },
+  "id": "80",
+  "cellNumber": "M-021",
+  "block": "Medical",
+  "capacity": 2,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57d0"
+  },
+  "id": "81",
+  "cellNumber": "B-022",
+  "block": "Block B",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM355"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57d1"
+  },
+  "id": "82",
+  "cellNumber": "B-023",
+  "block": "Block B",
+  "capacity": 2,
+  "currentOccupancy": 2,
+  "status": "Occupied",
+  "inmates": [
+    "INM316",
+    "INM563"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57d2"
+  },
+  "id": "83",
+  "cellNumber": "A-024",
+  "block": "Block A",
+  "capacity": 4,
+  "currentOccupancy": 3,
+  "status": "Available",
+  "inmates": [
+    "INM078",
+    "INM235",
+    "INM298"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57d3"
+  },
+  "id": "84",
+  "cellNumber": "B-024",
+  "block": "Block B",
+  "capacity": 3,
+  "currentOccupancy": 3,
+  "status": "Occupied",
+  "inmates": [
+    "INM346",
+    "INM391",
+    "INM516"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57d4"
+  },
+  "id": "85",
+  "cellNumber": "A-025",
+  "block": "Block A",
+  "capacity": 2,
+  "currentOccupancy": 2,
+  "status": "Occupied",
+  "inmates": [
+    "INM227",
+    "INM278"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57d5"
+  },
+  "id": "86",
+  "cellNumber": "S-016",
+  "block": "Solitary",
+  "capacity": 1,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57d6"
+  },
+  "id": "87",
+  "cellNumber": "M-022",
+  "block": "Medical",
+  "capacity": 3,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57d7"
+  },
+  "id": "88",
+  "cellNumber": "S-017",
+  "block": "Solitary",
+  "capacity": 1,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57d8"
+  },
+  "id": "89",
+  "cellNumber": "S-018",
+  "block": "Solitary",
+  "capacity": 1,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57d9"
+  },
+  "id": "90",
+  "cellNumber": "S-019",
+  "block": "Solitary",
+  "capacity": 1,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57da"
+  },
+  "id": "91",
+  "cellNumber": "S-020",
+  "block": "Solitary",
+  "capacity": 1,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57db"
+  },
+  "id": "92",
+  "cellNumber": "A-026",
+  "block": "Block A",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM007"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57dc"
+  },
+  "id": "93",
+  "cellNumber": "M-023",
+  "block": "Medical",
+  "capacity": 3,
+  "currentOccupancy": 1,
+  "status": "Available",
+  "inmates": [
+    "INM010"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57dd"
+  },
+  "id": "94",
+  "cellNumber": "S-021",
+  "block": "Solitary",
+  "capacity": 1,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57de"
+  },
+  "id": "95",
+  "cellNumber": "A-027",
+  "block": "Block A",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM097"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57df"
+  },
+  "id": "96",
+  "cellNumber": "A-028",
+  "block": "Block A",
+  "capacity": 3,
+  "currentOccupancy": 2,
+  "status": "Available",
+  "inmates": [
+    "INM201",
+    "INM240"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57e0"
+  },
+  "id": "97",
+  "cellNumber": "A-029",
+  "block": "Block A",
+  "capacity": 2,
+  "currentOccupancy": 2,
+  "status": "Occupied",
+  "inmates": [
+    "INM154",
+    "INM200"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57e1"
+  },
+  "id": "98",
+  "cellNumber": "A-030",
+  "block": "Block A",
+  "capacity": 2,
+  "currentOccupancy": 2,
+  "status": "Occupied",
+  "inmates": [
+    "INM031",
+    "INM033"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57e2"
+  },
+  "id": "99",
+  "cellNumber": "B-025",
+  "block": "Block B",
+  "capacity": 4,
+  "currentOccupancy": 1,
+  "status": "Available",
+  "inmates": [
+    "INM446"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57e3"
+  },
+  "id": "100",
+  "cellNumber": "M-024",
+  "block": "Medical",
+  "capacity": 1,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57e4"
+  },
+  "id": "101",
+  "cellNumber": "A-031",
+  "block": "Block A",
+  "capacity": 3,
+  "currentOccupancy": 3,
+  "status": "Occupied",
+  "inmates": [
+    "INM053",
+    "INM113",
+    "INM297"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57e5"
+  },
+  "id": "102",
+  "cellNumber": "A-032",
+  "block": "Block A",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM220"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57e6"
+  },
+  "id": "103",
+  "cellNumber": "S-022",
+  "block": "Solitary",
+  "capacity": 1,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57e7"
+  },
+  "id": "104",
+  "cellNumber": "A-033",
+  "block": "Block A",
+  "capacity": 3,
+  "currentOccupancy": 3,
+  "status": "Occupied",
+  "inmates": [
+    "INM026",
+    "INM101",
+    "INM138"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57e8"
+  },
+  "id": "105",
+  "cellNumber": "B-026",
+  "block": "Block B",
+  "capacity": 3,
+  "currentOccupancy": 2,
+  "status": "Available",
+  "inmates": [
+    "INM404",
+    "INM526"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57e9"
+  },
+  "id": "106",
+  "cellNumber": "M-025",
+  "block": "Medical",
+  "capacity": 3,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57ea"
+  },
+  "id": "107",
+  "cellNumber": "M-026",
+  "block": "Medical",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM001"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57eb"
+  },
+  "id": "108",
+  "cellNumber": "S-023",
+  "block": "Solitary",
+  "capacity": 1,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57ec"
+  },
+  "id": "109",
+  "cellNumber": "A-034",
+  "block": "Block A",
+  "capacity": 3,
+  "currentOccupancy": 2,
+  "status": "Available",
+  "inmates": [
+    "INM017",
+    "INM248"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57ed"
+  },
+  "id": "110",
+  "cellNumber": "S-024",
+  "block": "Solitary",
+  "capacity": 1,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57ee"
+  },
+  "id": "111",
+  "cellNumber": "M-027",
+  "block": "Medical",
+  "capacity": 3,
+  "currentOccupancy": 1,
+  "status": "Available",
+  "inmates": [
+    "INM039"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57ef"
+  },
+  "id": "112",
+  "cellNumber": "S-025",
+  "block": "Solitary",
+  "capacity": 1,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57f0"
+  },
+  "id": "113",
+  "cellNumber": "B-027",
+  "block": "Block B",
+  "capacity": 3,
+  "currentOccupancy": 3,
+  "status": "Occupied",
+  "inmates": [
+    "INM454",
+    "INM511",
+    "INM558"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57f1"
+  },
+  "id": "114",
+  "cellNumber": "A-035",
+  "block": "Block A",
+  "capacity": 4,
+  "currentOccupancy": 2,
+  "status": "Available",
+  "inmates": [
+    "INM099",
+    "INM151"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57f2"
+  },
+  "id": "115",
+  "cellNumber": "B-028",
+  "block": "Block B",
+  "capacity": 2,
+  "currentOccupancy": 2,
+  "status": "Occupied",
+  "inmates": [
+    "INM385",
+    "INM423"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57f3"
+  },
+  "id": "116",
+  "cellNumber": "A-036",
+  "block": "Block A",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM149"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57f4"
+  },
+  "id": "117",
+  "cellNumber": "M-028",
+  "block": "Medical",
+  "capacity": 1,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57f5"
+  },
+  "id": "118",
+  "cellNumber": "A-037",
+  "block": "Block A",
+  "capacity": 4,
+  "currentOccupancy": 4,
+  "status": "Occupied",
+  "inmates": [
+    "INM001",
+    "INM239",
+    "INM243",
+    "INM280"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57f6"
+  },
+  "id": "119",
+  "cellNumber": "B-029",
+  "block": "Block B",
+  "capacity": 3,
+  "currentOccupancy": 3,
+  "status": "Occupied",
+  "inmates": [
+    "INM314",
+    "INM442",
+    "INM476"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57f7"
+  },
+  "id": "120",
+  "cellNumber": "A-038",
+  "block": "Block A",
+  "capacity": 2,
+  "currentOccupancy": 2,
+  "status": "Occupied",
+  "inmates": [
+    "INM057",
+    "INM187"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57f8"
+  },
+  "id": "121",
+  "cellNumber": "M-029",
+  "block": "Medical",
+  "capacity": 4,
+  "currentOccupancy": 1,
+  "status": "Available",
+  "inmates": [
+    "INM033"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57f9"
+  },
+  "id": "122",
+  "cellNumber": "A-039",
+  "block": "Block A",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM158"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57fa"
+  },
+  "id": "123",
+  "cellNumber": "M-030",
+  "block": "Medical",
+  "capacity": 1,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57fb"
+  },
+  "id": "124",
+  "cellNumber": "M-031",
+  "block": "Medical",
+  "capacity": 2,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57fc"
+  },
+  "id": "125",
+  "cellNumber": "M-032",
+  "block": "Medical",
+  "capacity": 3,
+  "currentOccupancy": 1,
+  "status": "Available",
+  "inmates": [
+    "INM002"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57fd"
+  },
+  "id": "126",
+  "cellNumber": "A-040",
+  "block": "Block A",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM059"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57fe"
+  },
+  "id": "127",
+  "cellNumber": "S-026",
+  "block": "Solitary",
+  "capacity": 1,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd57ff"
+  },
+  "id": "128",
+  "cellNumber": "M-033",
+  "block": "Medical",
+  "capacity": 3,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5800"
+  },
+  "id": "129",
+  "cellNumber": "S-027",
+  "block": "Solitary",
+  "capacity": 1,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5801"
+  },
+  "id": "130",
+  "cellNumber": "S-028",
+  "block": "Solitary",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM050"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5802"
+  },
+  "id": "131",
+  "cellNumber": "A-041",
+  "block": "Block A",
+  "capacity": 3,
+  "currentOccupancy": 3,
+  "status": "Occupied",
+  "inmates": [
+    "INM089",
+    "INM179",
+    "INM275"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5803"
+  },
+  "id": "132",
+  "cellNumber": "M-034",
+  "block": "Medical",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM042"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5804"
+  },
+  "id": "133",
+  "cellNumber": "B-030",
+  "block": "Block B",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM460"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5805"
+  },
+  "id": "134",
+  "cellNumber": "A-042",
+  "block": "Block A",
+  "capacity": 4,
+  "currentOccupancy": 4,
+  "status": "Occupied",
+  "inmates": [
+    "INM090",
+    "INM163",
+    "INM252",
+    "INM284"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5806"
+  },
+  "id": "135",
+  "cellNumber": "M-035",
+  "block": "Medical",
+  "capacity": 3,
+  "currentOccupancy": 2,
+  "status": "Available",
+  "inmates": [
+    "INM012",
+    "INM034"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5807"
+  },
+  "id": "136",
+  "cellNumber": "S-029",
+  "block": "Solitary",
+  "capacity": 1,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5808"
+  },
+  "id": "137",
+  "cellNumber": "S-030",
+  "block": "Solitary",
+  "capacity": 1,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5809"
+  },
+  "id": "138",
+  "cellNumber": "B-031",
+  "block": "Block B",
+  "capacity": 4,
+  "currentOccupancy": 4,
+  "status": "Occupied",
+  "inmates": [
+    "INM364",
+    "INM462",
+    "INM529",
+    "INM539"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd580a"
+  },
+  "id": "139",
+  "cellNumber": "A-043",
+  "block": "Block A",
+  "capacity": 4,
+  "currentOccupancy": 4,
+  "status": "Occupied",
+  "inmates": [
+    "INM136",
+    "INM172",
+    "INM198",
+    "INM241"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd580b"
+  },
+  "id": "140",
+  "cellNumber": "S-031",
+  "block": "Solitary",
+  "capacity": 1,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd580c"
+  },
+  "id": "141",
+  "cellNumber": "M-036",
+  "block": "Medical",
+  "capacity": 3,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd580d"
+  },
+  "id": "142",
+  "cellNumber": "M-037",
+  "block": "Medical",
+  "capacity": 1,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd580e"
+  },
+  "id": "143",
+  "cellNumber": "A-044",
+  "block": "Block A",
+  "capacity": 4,
+  "currentOccupancy": 4,
+  "status": "Occupied",
+  "inmates": [
+    "INM035",
+    "INM182",
+    "INM223",
+    "INM230"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd580f"
+  },
+  "id": "144",
+  "cellNumber": "S-032",
+  "block": "Solitary",
+  "capacity": 1,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5810"
+  },
+  "id": "145",
+  "cellNumber": "A-045",
+  "block": "Block A",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM073"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5811"
+  },
+  "id": "146",
+  "cellNumber": "A-046",
+  "block": "Block A",
+  "capacity": 4,
+  "currentOccupancy": 1,
+  "status": "Available",
+  "inmates": [
+    "INM260"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5812"
+  },
+  "id": "147",
+  "cellNumber": "S-033",
+  "block": "Solitary",
+  "capacity": 1,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5813"
+  },
+  "id": "148",
+  "cellNumber": "B-032",
+  "block": "Block B",
+  "capacity": 4,
+  "currentOccupancy": 4,
+  "status": "Occupied",
+  "inmates": [
+    "INM393",
+    "INM467",
+    "INM468",
+    "INM496"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5814"
+  },
+  "id": "149",
+  "cellNumber": "B-033",
+  "block": "Block B",
+  "capacity": 3,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5815"
+  },
+  "id": "150",
+  "cellNumber": "A-047",
+  "block": "Block A",
+  "capacity": 4,
+  "currentOccupancy": 3,
+  "status": "Available",
+  "inmates": [
+    "INM037",
+    "INM204",
+    "INM232"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5816"
+  },
+  "id": "151",
+  "cellNumber": "M-038",
+  "block": "Medical",
+  "capacity": 4,
+  "currentOccupancy": 1,
+  "status": "Available",
+  "inmates": [
+    "INM036"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5817"
+  },
+  "id": "152",
+  "cellNumber": "M-039",
+  "block": "Medical",
+  "capacity": 4,
+  "currentOccupancy": 1,
+  "status": "Available",
+  "inmates": [
+    "INM016"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5818"
+  },
+  "id": "153",
+  "cellNumber": "B-034",
+  "block": "Block B",
+  "capacity": 2,
+  "currentOccupancy": 2,
+  "status": "Occupied",
+  "inmates": [
+    "INM352",
+    "INM465"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5819"
+  },
+  "id": "154",
+  "cellNumber": "S-034",
+  "block": "Solitary",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM046"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd581a"
+  },
+  "id": "155",
+  "cellNumber": "B-035",
+  "block": "Block B",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM482"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd581b"
+  },
+  "id": "156",
+  "cellNumber": "A-048",
+  "block": "Block A",
+  "capacity": 4,
+  "currentOccupancy": 1,
+  "status": "Available",
+  "inmates": [
+    "INM245"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd581c"
+  },
+  "id": "157",
+  "cellNumber": "B-036",
+  "block": "Block B",
+  "capacity": 3,
+  "currentOccupancy": 3,
+  "status": "Occupied",
+  "inmates": [
+    "INM333",
+    "INM577",
+    "INM580"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd581d"
+  },
+  "id": "158",
+  "cellNumber": "B-037",
+  "block": "Block B",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM400"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd581e"
+  },
+  "id": "159",
+  "cellNumber": "M-040",
+  "block": "Medical",
+  "capacity": 3,
+  "currentOccupancy": 1,
+  "status": "Available",
+  "inmates": [
+    "INM030"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd581f"
+  },
+  "id": "160",
+  "cellNumber": "A-049",
+  "block": "Block A",
+  "capacity": 2,
+  "currentOccupancy": 2,
+  "status": "Occupied",
+  "inmates": [
+    "INM269",
+    "INM310"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5820"
+  },
+  "id": "161",
+  "cellNumber": "A-050",
+  "block": "Block A",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM108"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5821"
+  },
+  "id": "162",
+  "cellNumber": "A-051",
+  "block": "Block A",
+  "capacity": 4,
+  "currentOccupancy": 4,
+  "status": "Occupied",
+  "inmates": [
+    "INM115",
+    "INM119",
+    "INM195",
+    "INM251"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5822"
+  },
+  "id": "163",
+  "cellNumber": "A-052",
+  "block": "Block A",
+  "capacity": 4,
+  "currentOccupancy": 4,
+  "status": "Occupied",
+  "inmates": [
+    "INM034",
+    "INM074",
+    "INM267",
+    "INM277"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5823"
+  },
+  "id": "164",
+  "cellNumber": "S-035",
+  "block": "Solitary",
+  "capacity": 1,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5824"
+  },
+  "id": "165",
+  "cellNumber": "A-053",
+  "block": "Block A",
+  "capacity": 2,
+  "currentOccupancy": 2,
+  "status": "Occupied",
+  "inmates": [
+    "INM148",
+    "INM170"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5825"
+  },
+  "id": "166",
+  "cellNumber": "B-038",
+  "block": "Block B",
+  "capacity": 3,
+  "currentOccupancy": 1,
+  "status": "Available",
+  "inmates": [
+    "INM594"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5826"
+  },
+  "id": "167",
+  "cellNumber": "S-036",
+  "block": "Solitary",
+  "capacity": 1,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5827"
+  },
+  "id": "168",
+  "cellNumber": "M-041",
+  "block": "Medical",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM020"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5828"
+  },
+  "id": "169",
+  "cellNumber": "S-037",
+  "block": "Solitary",
+  "capacity": 1,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5829"
+  },
+  "id": "170",
+  "cellNumber": "S-038",
+  "block": "Solitary",
+  "capacity": 1,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd582a"
+  },
+  "id": "171",
+  "cellNumber": "M-042",
+  "block": "Medical",
+  "capacity": 1,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd582b"
+  },
+  "id": "172",
+  "cellNumber": "S-039",
+  "block": "Solitary",
+  "capacity": 1,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd582c"
+  },
+  "id": "173",
+  "cellNumber": "A-054",
+  "block": "Block A",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM029"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd582d"
+  },
+  "id": "174",
+  "cellNumber": "M-043",
+  "block": "Medical",
+  "capacity": 2,
+  "currentOccupancy": 1,
+  "status": "Available",
+  "inmates": [
+    "INM014"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd582e"
+  },
+  "id": "175",
+  "cellNumber": "S-040",
+  "block": "Solitary",
+  "capacity": 1,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd582f"
+  },
+  "id": "176",
+  "cellNumber": "M-044",
+  "block": "Medical",
+  "capacity": 1,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5830"
+  },
+  "id": "177",
+  "cellNumber": "A-055",
+  "block": "Block A",
+  "capacity": 4,
+  "currentOccupancy": 3,
+  "status": "Available",
+  "inmates": [
+    "INM121",
+    "INM282",
+    "INM293"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5831"
+  },
+  "id": "178",
+  "cellNumber": "S-041",
+  "block": "Solitary",
+  "capacity": 1,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5832"
+  },
+  "id": "179",
+  "cellNumber": "B-039",
+  "block": "Block B",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM357"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5833"
+  },
+  "id": "180",
+  "cellNumber": "S-042",
+  "block": "Solitary",
+  "capacity": 1,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5834"
+  },
+  "id": "181",
+  "cellNumber": "M-045",
+  "block": "Medical",
+  "capacity": 3,
+  "currentOccupancy": 1,
+  "status": "Available",
+  "inmates": [
+    "INM044"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5835"
+  },
+  "id": "182",
+  "cellNumber": "S-043",
+  "block": "Solitary",
+  "capacity": 1,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5836"
+  },
+  "id": "183",
+  "cellNumber": "A-056",
+  "block": "Block A",
+  "capacity": 4,
+  "currentOccupancy": 1,
+  "status": "Available",
+  "inmates": [
+    "INM208"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5837"
+  },
+  "id": "184",
+  "cellNumber": "B-040",
+  "block": "Block B",
+  "capacity": 3,
+  "currentOccupancy": 3,
+  "status": "Occupied",
+  "inmates": [
+    "INM392",
+    "INM430",
+    "INM544"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5838"
+  },
+  "id": "185",
+  "cellNumber": "S-044",
+  "block": "Solitary",
+  "capacity": 1,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5839"
+  },
+  "id": "186",
+  "cellNumber": "M-046",
+  "block": "Medical",
+  "capacity": 3,
+  "currentOccupancy": 1,
+  "status": "Available",
+  "inmates": [
+    "INM017"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd583a"
+  },
+  "id": "187",
+  "cellNumber": "M-047",
+  "block": "Medical",
+  "capacity": 3,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd583b"
+  },
+  "id": "188",
+  "cellNumber": "B-041",
+  "block": "Block B",
+  "capacity": 2,
+  "currentOccupancy": 2,
+  "status": "Occupied",
+  "inmates": [
+    "INM360",
+    "INM398"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd583c"
+  },
+  "id": "189",
+  "cellNumber": "A-057",
+  "block": "Block A",
+  "capacity": 4,
+  "currentOccupancy": 4,
+  "status": "Occupied",
+  "inmates": [
+    "INM002",
+    "INM214",
+    "INM250",
+    "INM308"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd583d"
+  },
+  "id": "190",
+  "cellNumber": "A-058",
+  "block": "Block A",
+  "capacity": 3,
+  "currentOccupancy": 2,
+  "status": "Available",
+  "inmates": [
+    "INM045",
+    "INM189"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd583e"
+  },
+  "id": "191",
+  "cellNumber": "S-045",
+  "block": "Solitary",
+  "capacity": 1,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd583f"
+  },
+  "id": "192",
+  "cellNumber": "M-048",
+  "block": "Medical",
+  "capacity": 2,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5840"
+  },
+  "id": "193",
+  "cellNumber": "A-059",
+  "block": "Block A",
+  "capacity": 4,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5841"
+  },
+  "id": "194",
+  "cellNumber": "B-042",
+  "block": "Block B",
+  "capacity": 2,
+  "currentOccupancy": 2,
+  "status": "Occupied",
+  "inmates": [
+    "INM348",
+    "INM490"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5842"
+  },
+  "id": "195",
+  "cellNumber": "S-046",
+  "block": "Solitary",
+  "capacity": 1,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5843"
+  },
+  "id": "196",
+  "cellNumber": "B-043",
+  "block": "Block B",
+  "capacity": 4,
+  "currentOccupancy": 4,
+  "status": "Occupied",
+  "inmates": [
+    "INM325",
+    "INM472",
+    "INM483",
+    "INM523"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5844"
+  },
+  "id": "197",
+  "cellNumber": "M-049",
+  "block": "Medical",
+  "capacity": 4,
+  "currentOccupancy": 1,
+  "status": "Available",
+  "inmates": [
+    "INM009"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5845"
+  },
+  "id": "198",
+  "cellNumber": "A-060",
+  "block": "Block A",
+  "capacity": 4,
+  "currentOccupancy": 4,
+  "status": "Occupied",
+  "inmates": [
+    "INM100",
+    "INM181",
+    "INM242",
+    "INM249"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5846"
+  },
+  "id": "199",
+  "cellNumber": "S-047",
+  "block": "Solitary",
+  "capacity": 1,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5847"
+  },
+  "id": "200",
+  "cellNumber": "A-061",
+  "block": "Block A",
+  "capacity": 4,
+  "currentOccupancy": 4,
+  "status": "Occupied",
+  "inmates": [
+    "INM207",
+    "INM217",
+    "INM225",
+    "INM238"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5848"
+  },
+  "id": "201",
+  "cellNumber": "A-062",
+  "block": "Block A",
+  "capacity": 2,
+  "currentOccupancy": 2,
+  "status": "Occupied",
+  "inmates": [
+    "INM135",
+    "INM202"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5849"
+  },
+  "id": "202",
+  "cellNumber": "S-048",
+  "block": "Solitary",
+  "capacity": 1,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd584a"
+  },
+  "id": "203",
+  "cellNumber": "S-049",
+  "block": "Solitary",
+  "capacity": 1,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd584b"
+  },
+  "id": "204",
+  "cellNumber": "M-050",
+  "block": "Medical",
+  "capacity": 4,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd584c"
+  },
+  "id": "205",
+  "cellNumber": "M-051",
+  "block": "Medical",
+  "capacity": 4,
+  "currentOccupancy": 1,
+  "status": "Available",
+  "inmates": [
+    "INM021"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd584d"
+  },
+  "id": "206",
+  "cellNumber": "S-050",
+  "block": "Solitary",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM054"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd584e"
+  },
+  "id": "207",
+  "cellNumber": "A-063",
+  "block": "Block A",
+  "capacity": 2,
+  "currentOccupancy": 2,
+  "status": "Occupied",
+  "inmates": [
+    "INM229",
+    "INM255"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd584f"
+  },
+  "id": "208",
+  "cellNumber": "M-052",
+  "block": "Medical",
+  "capacity": 1,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5850"
+  },
+  "id": "209",
+  "cellNumber": "S-051",
+  "block": "Solitary",
+  "capacity": 1,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5851"
+  },
+  "id": "210",
+  "cellNumber": "M-053",
+  "block": "Medical",
+  "capacity": 3,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5852"
+  },
+  "id": "211",
+  "cellNumber": "S-052",
+  "block": "Solitary",
+  "capacity": 1,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5853"
+  },
+  "id": "212",
+  "cellNumber": "S-053",
+  "block": "Solitary",
+  "capacity": 1,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5854"
+  },
+  "id": "213",
+  "cellNumber": "B-044",
+  "block": "Block B",
+  "capacity": 4,
+  "currentOccupancy": 4,
+  "status": "Occupied",
+  "inmates": [
+    "INM326",
+    "INM372",
+    "INM532",
+    "INM568"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5855"
+  },
+  "id": "214",
+  "cellNumber": "A-064",
+  "block": "Block A",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM043"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5856"
+  },
+  "id": "215",
+  "cellNumber": "M-054",
+  "block": "Medical",
+  "capacity": 4,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5857"
+  },
+  "id": "216",
+  "cellNumber": "A-065",
+  "block": "Block A",
+  "capacity": 2,
+  "currentOccupancy": 2,
+  "status": "Occupied",
+  "inmates": [
+    "INM038",
+    "INM174"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5858"
+  },
+  "id": "217",
+  "cellNumber": "B-045",
+  "block": "Block B",
+  "capacity": 2,
+  "currentOccupancy": 2,
+  "status": "Occupied",
+  "inmates": [
+    "INM502",
+    "INM508"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5859"
+  },
+  "id": "218",
+  "cellNumber": "A-066",
+  "block": "Block A",
+  "capacity": 4,
+  "currentOccupancy": 2,
+  "status": "Available",
+  "inmates": [
+    "INM117",
+    "INM157"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd585a"
+  },
+  "id": "219",
+  "cellNumber": "A-067",
+  "block": "Block A",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM030"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd585b"
+  },
+  "id": "220",
+  "cellNumber": "A-068",
+  "block": "Block A",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM049"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd585c"
+  },
+  "id": "221",
+  "cellNumber": "A-069",
+  "block": "Block A",
+  "capacity": 2,
+  "currentOccupancy": 2,
+  "status": "Occupied",
+  "inmates": [
+    "INM068",
+    "INM072"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd585e"
+  },
+  "id": "223",
+  "cellNumber": "B-046",
+  "block": "Block B",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM366"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5862"
+  },
+  "id": "227",
+  "cellNumber": "A-070",
+  "block": "Block A",
+  "capacity": 3,
+  "currentOccupancy": 3,
+  "status": "Occupied",
+  "inmates": [
+    "INM131",
+    "INM133",
+    "INM146"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5863"
+  },
+  "id": "228",
+  "cellNumber": "A-071",
+  "block": "Block A",
+  "capacity": 2,
+  "currentOccupancy": 2,
+  "status": "Occupied",
+  "inmates": [
+    "INM125",
+    "INM205"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5865"
+  },
+  "id": "230",
+  "cellNumber": "B-047",
+  "block": "Block B",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM359"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5867"
+  },
+  "id": "232",
+  "cellNumber": "A-072",
+  "block": "Block A",
+  "capacity": 2,
+  "currentOccupancy": 1,
+  "status": "Available",
+  "inmates": [
+    "INM276"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5869"
+  },
+  "id": "234",
+  "cellNumber": "A-073",
+  "block": "Block A",
+  "capacity": 2,
+  "currentOccupancy": 2,
+  "status": "Occupied",
+  "inmates": [
+    "INM008",
+    "INM024"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd586a"
+  },
+  "id": "235",
+  "cellNumber": "B-048",
+  "block": "Block B",
+  "capacity": 4,
+  "currentOccupancy": 2,
+  "status": "Available",
+  "inmates": [
+    "INM387",
+    "INM541"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd586b"
+  },
+  "id": "236",
+  "cellNumber": "A-074",
+  "block": "Block A",
+  "capacity": 4,
+  "currentOccupancy": 1,
+  "status": "Available",
+  "inmates": [
+    "INM077"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd586f"
+  },
+  "id": "240",
+  "cellNumber": "A-075",
+  "block": "Block A",
+  "capacity": 3,
+  "currentOccupancy": 2,
+  "status": "Available",
+  "inmates": [
+    "INM058",
+    "INM194"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5871"
+  },
+  "id": "242",
+  "cellNumber": "M-061",
+  "block": "Medical",
+  "capacity": 2,
+  "currentOccupancy": 1,
+  "status": "Available",
+  "inmates": [
+    "INM011"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5873"
+  },
+  "id": "244",
+  "cellNumber": "A-076",
+  "block": "Block A",
+  "capacity": 2,
+  "currentOccupancy": 2,
+  "status": "Occupied",
+  "inmates": [
+    "INM262",
+    "INM287"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5874"
+  },
+  "id": "245",
+  "cellNumber": "B-049",
+  "block": "Block B",
+  "capacity": 3,
+  "currentOccupancy": 3,
+  "status": "Occupied",
+  "inmates": [
+    "INM319",
+    "INM342",
+    "INM345"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5875"
+  },
+  "id": "246",
+  "cellNumber": "A-077",
+  "block": "Block A",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM025"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5878"
+  },
+  "id": "249",
+  "cellNumber": "M-064",
+  "block": "Medical",
+  "capacity": 2,
+  "currentOccupancy": 1,
+  "status": "Available",
+  "inmates": [
+    "INM018"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd587b"
+  },
+  "id": "252",
+  "cellNumber": "M-066",
+  "block": "Medical",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM040"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd587c"
+  },
+  "id": "253",
+  "cellNumber": "B-050",
+  "block": "Block B",
+  "capacity": 2,
+  "currentOccupancy": 1,
+  "status": "Available",
+  "inmates": [
+    "INM565"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd587d"
+  },
+  "id": "254",
+  "cellNumber": "B-051",
+  "block": "Block B",
+  "capacity": 3,
+  "currentOccupancy": 3,
+  "status": "Occupied",
+  "inmates": [
+    "INM409",
+    "INM432",
+    "INM513"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd587e"
+  },
+  "id": "255",
+  "cellNumber": "A-078",
+  "block": "Block A",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM080"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5880"
+  },
+  "id": "257",
+  "cellNumber": "S-061",
+  "block": "Solitary",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM056"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5882"
+  },
+  "id": "259",
+  "cellNumber": "B-052",
+  "block": "Block B",
+  "capacity": 2,
+  "currentOccupancy": 2,
+  "status": "Occupied",
+  "inmates": [
+    "INM461",
+    "INM535"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5884"
+  },
+  "id": "261",
+  "cellNumber": "A-079",
+  "block": "Block A",
+  "capacity": 3,
+  "currentOccupancy": 3,
+  "status": "Occupied",
+  "inmates": [
+    "INM014",
+    "INM020",
+    "INM042"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5886"
+  },
+  "id": "263",
+  "cellNumber": "M-070",
+  "block": "Medical",
+  "capacity": 2,
+  "currentOccupancy": 1,
+  "status": "Available",
+  "inmates": [
+    "INM019"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5887"
+  },
+  "id": "264",
+  "cellNumber": "M-071",
+  "block": "Medical",
+  "capacity": 3,
+  "currentOccupancy": 1,
+  "status": "Available",
+  "inmates": [
+    "INM006"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5888"
+  },
+  "id": "265",
+  "cellNumber": "B-053",
+  "block": "Block B",
+  "capacity": 4,
+  "currentOccupancy": 4,
+  "status": "Occupied",
+  "inmates": [
+    "INM335",
+    "INM402",
+    "INM434",
+    "INM448"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5889"
+  },
+  "id": "266",
+  "cellNumber": "B-054",
+  "block": "Block B",
+  "capacity": 4,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd588a"
+  },
+  "id": "267",
+  "cellNumber": "A-080",
+  "block": "Block A",
+  "capacity": 2,
+  "currentOccupancy": 2,
+  "status": "Occupied",
+  "inmates": [
+    "INM261",
+    "INM304"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd588b"
+  },
+  "id": "268",
+  "cellNumber": "B-055",
+  "block": "Block B",
+  "capacity": 4,
+  "currentOccupancy": 4,
+  "status": "Occupied",
+  "inmates": [
+    "INM427",
+    "INM515",
+    "INM522",
+    "INM534"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd588c"
+  },
+  "id": "269",
+  "cellNumber": "B-056",
+  "block": "Block B",
+  "capacity": 2,
+  "currentOccupancy": 2,
+  "status": "Occupied",
+  "inmates": [
+    "INM410",
+    "INM419"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd588d"
+  },
+  "id": "270",
+  "cellNumber": "A-081",
+  "block": "Block A",
+  "capacity": 3,
+  "currentOccupancy": 1,
+  "status": "Available",
+  "inmates": [
+    "INM296"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd588e"
+  },
+  "id": "271",
+  "cellNumber": "S-063",
+  "block": "Solitary",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM052"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd588f"
+  },
+  "id": "272",
+  "cellNumber": "M-072",
+  "block": "Medical",
+  "capacity": 3,
+  "currentOccupancy": 3,
+  "status": "Occupied",
+  "inmates": [
+    "INM003",
+    "INM023",
+    "INM026"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5890"
+  },
+  "id": "273",
+  "cellNumber": "A-082",
+  "block": "Block A",
+  "capacity": 2,
+  "currentOccupancy": 2,
+  "status": "Occupied",
+  "inmates": [
+    "INM127",
+    "INM152"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5891"
+  },
+  "id": "274",
+  "cellNumber": "B-057",
+  "block": "Block B",
+  "capacity": 3,
+  "currentOccupancy": 2,
+  "status": "Available",
+  "inmates": [
+    "INM320",
+    "INM445"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5894"
+  },
+  "id": "277",
+  "cellNumber": "B-058",
+  "block": "Block B",
+  "capacity": 4,
+  "currentOccupancy": 4,
+  "status": "Occupied",
+  "inmates": [
+    "INM414",
+    "INM570",
+    "INM582",
+    "INM585"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5895"
+  },
+  "id": "278",
+  "cellNumber": "B-059",
+  "block": "Block B",
+  "capacity": 2,
+  "currentOccupancy": 2,
+  "status": "Occupied",
+  "inmates": [
+    "INM464",
+    "INM469"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5896"
+  },
+  "id": "279",
+  "cellNumber": "B-060",
+  "block": "Block B",
+  "capacity": 3,
+  "currentOccupancy": 3,
+  "status": "Occupied",
+  "inmates": [
+    "INM415",
+    "INM436",
+    "INM518"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5897"
+  },
+  "id": "280",
+  "cellNumber": "A-083",
+  "block": "Block A",
+  "capacity": 3,
+  "currentOccupancy": 3,
+  "status": "Occupied",
+  "inmates": [
+    "INM092",
+    "INM228",
+    "INM265"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd589a"
+  },
+  "id": "283",
+  "cellNumber": "A-084",
+  "block": "Block A",
+  "capacity": 3,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd589b"
+  },
+  "id": "284",
+  "cellNumber": "S-066",
+  "block": "Solitary",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM053"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd589e"
+  },
+  "id": "287",
+  "cellNumber": "B-061",
+  "block": "Block B",
+  "capacity": 3,
+  "currentOccupancy": 2,
+  "status": "Available",
+  "inmates": [
+    "INM470",
+    "INM477"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd589f"
+  },
+  "id": "288",
+  "cellNumber": "A-085",
+  "block": "Block A",
+  "capacity": 2,
+  "currentOccupancy": 2,
+  "status": "Occupied",
+  "inmates": [
+    "INM005",
+    "INM193"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd58a0"
+  },
+  "id": "289",
+  "cellNumber": "B-062",
+  "block": "Block B",
+  "capacity": 3,
+  "currentOccupancy": 1,
+  "status": "Available",
+  "inmates": [
+    "INM593"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd58a2"
+  },
+  "id": "291",
+  "cellNumber": "A-086",
+  "block": "Block A",
+  "capacity": 2,
+  "currentOccupancy": 1,
+  "status": "Available",
+  "inmates": [
+    "INM302"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd58a3"
+  },
+  "id": "292",
+  "cellNumber": "B-063",
+  "block": "Block B",
+  "capacity": 2,
+  "currentOccupancy": 2,
+  "status": "Occupied",
+  "inmates": [
+    "INM377",
+    "INM501"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd58a4"
+  },
+  "id": "293",
+  "cellNumber": "A-087",
+  "block": "Block A",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM067"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd58a5"
+  },
+  "id": "294",
+  "cellNumber": "A-088",
+  "block": "Block A",
+  "capacity": 3,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd58a6"
+  },
+  "id": "295",
+  "cellNumber": "M-077",
+  "block": "Medical",
+  "capacity": 4,
+  "currentOccupancy": 1,
+  "status": "Available",
+  "inmates": [
+    "INM007"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd58a7"
+  },
+  "id": "296",
+  "cellNumber": "S-068",
+  "block": "Solitary",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM049"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd58a9"
+  },
+  "id": "298",
+  "cellNumber": "A-089",
+  "block": "Block A",
+  "capacity": 4,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd58ac"
+  },
+  "id": "301",
+  "cellNumber": "M-081",
+  "block": "Medical",
+  "capacity": 4,
+  "currentOccupancy": 1,
+  "status": "Available",
+  "inmates": [
+    "INM031"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd58ad"
+  },
+  "id": "302",
+  "cellNumber": "M-082",
+  "block": "Medical",
+  "capacity": 2,
+  "currentOccupancy": 1,
+  "status": "Available",
+  "inmates": [
+    "INM022"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd58ae"
+  },
+  "id": "303",
+  "cellNumber": "M-083",
+  "block": "Medical",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM025"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd58b0"
+  },
+  "id": "305",
+  "cellNumber": "B-064",
+  "block": "Block B",
+  "capacity": 3,
+  "currentOccupancy": 2,
+  "status": "Available",
+  "inmates": [
+    "INM382",
+    "INM484"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd58b1"
+  },
+  "id": "306",
+  "cellNumber": "A-090",
+  "block": "Block A",
+  "capacity": 4,
+  "currentOccupancy": 1,
+  "status": "Available",
+  "inmates": [
+    "INM312"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd58b4"
+  },
+  "id": "309",
+  "cellNumber": "B-065",
+  "block": "Block B",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM322"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd58b6"
+  },
+  "id": "311",
+  "cellNumber": "A-091",
+  "block": "Block A",
+  "capacity": 2,
+  "currentOccupancy": 2,
+  "status": "Occupied",
+  "inmates": [
+    "INM016",
+    "INM036"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd58b7"
+  },
+  "id": "312",
+  "cellNumber": "A-092",
+  "block": "Block A",
+  "capacity": 4,
+  "currentOccupancy": 2,
+  "status": "Available",
+  "inmates": [
+    "INM213",
+    "INM236"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd58b8"
+  },
+  "id": "313",
+  "cellNumber": "M-085",
+  "block": "Medical",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM041"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd58ba"
+  },
+  "id": "315",
+  "cellNumber": "M-087",
+  "block": "Medical",
+  "capacity": 3,
+  "currentOccupancy": 1,
+  "status": "Available",
+  "inmates": [
+    "INM043"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd58bb"
+  },
+  "id": "316",
+  "cellNumber": "A-093",
+  "block": "Block A",
+  "capacity": 2,
+  "currentOccupancy": 2,
+  "status": "Occupied",
+  "inmates": [
+    "INM084",
+    "INM111"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd58bc"
+  },
+  "id": "317",
+  "cellNumber": "A-094",
+  "block": "Block A",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM047"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd58bd"
+  },
+  "id": "318",
+  "cellNumber": "M-088",
+  "block": "Medical",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM015"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd58bf"
+  },
+  "id": "320",
+  "cellNumber": "A-095",
+  "block": "Block A",
+  "capacity": 4,
+  "currentOccupancy": 2,
+  "status": "Available",
+  "inmates": [
+    "INM211",
+    "INM291"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd58c0"
+  },
+  "id": "321",
+  "cellNumber": "B-066",
+  "block": "Block B",
+  "capacity": 3,
+  "currentOccupancy": 3,
+  "status": "Occupied",
+  "inmates": [
+    "INM362",
+    "INM379",
+    "INM417"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd58c1"
+  },
+  "id": "322",
+  "cellNumber": "B-067",
+  "block": "Block B",
+  "capacity": 2,
+  "currentOccupancy": 2,
+  "status": "Occupied",
+  "inmates": [
+    "INM370",
+    "INM376"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd58c2"
+  },
+  "id": "323",
+  "cellNumber": "A-096",
+  "block": "Block A",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM210"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd58c3"
+  },
+  "id": "324",
+  "cellNumber": "B-068",
+  "block": "Block B",
+  "capacity": 2,
+  "currentOccupancy": 2,
+  "status": "Occupied",
+  "inmates": [
+    "INM367",
+    "INM517"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd58c6"
+  },
+  "id": "327",
+  "cellNumber": "B-069",
+  "block": "Block B",
+  "capacity": 4,
+  "currentOccupancy": 4,
+  "status": "Occupied",
+  "inmates": [
+    "INM340",
+    "INM485",
+    "INM488",
+    "INM536"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd58c8"
+  },
+  "id": "329",
+  "cellNumber": "B-070",
+  "block": "Block B",
+  "capacity": 3,
+  "currentOccupancy": 3,
+  "status": "Occupied",
+  "inmates": [
+    "INM504",
+    "INM512",
+    "INM528"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd58c9"
+  },
+  "id": "330",
+  "cellNumber": "B-071",
+  "block": "Block B",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM538"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd58cd"
+  },
+  "id": "334",
+  "cellNumber": "A-097",
+  "block": "Block A",
+  "capacity": 4,
+  "currentOccupancy": 3,
+  "status": "Available",
+  "inmates": [
+    "INM257",
+    "INM264",
+    "INM286"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd58ce"
+  },
+  "id": "335",
+  "cellNumber": "M-093",
+  "block": "Medical",
+  "capacity": 3,
+  "currentOccupancy": 1,
+  "status": "Available",
+  "inmates": [
+    "INM028"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd58d0"
+  },
+  "id": "337",
+  "cellNumber": "A-098",
+  "block": "Block A",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM169"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd58d1"
+  },
+  "id": "338",
+  "cellNumber": "A-099",
+  "block": "Block A",
+  "capacity": 4,
+  "currentOccupancy": 1,
+  "status": "Available",
+  "inmates": [
+    "INM116"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd58d2"
+  },
+  "id": "339",
+  "cellNumber": "A-100",
+  "block": "Block A",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM307"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd58d3"
+  },
+  "id": "340",
+  "cellNumber": "A-101",
+  "block": "Block A",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM258"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd58d4"
+  },
+  "id": "341",
+  "cellNumber": "B-072",
+  "block": "Block B",
+  "capacity": 3,
+  "currentOccupancy": 3,
+  "status": "Occupied",
+  "inmates": [
+    "INM351",
+    "INM380",
+    "INM386"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd58d5"
+  },
+  "id": "342",
+  "cellNumber": "A-102",
+  "block": "Block A",
+  "capacity": 2,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd58d7"
+  },
+  "id": "344",
+  "cellNumber": "M-095",
+  "block": "Medical",
+  "capacity": 3,
+  "currentOccupancy": 1,
+  "status": "Available",
+  "inmates": [
+    "INM032"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd58d9"
+  },
+  "id": "346",
+  "cellNumber": "A-103",
+  "block": "Block A",
+  "capacity": 4,
+  "currentOccupancy": 4,
+  "status": "Occupied",
+  "inmates": [
+    "INM098",
+    "INM103",
+    "INM173",
+    "INM188"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd58da"
+  },
+  "id": "347",
+  "cellNumber": "B-073",
+  "block": "Block B",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM378"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd58db"
+  },
+  "id": "348",
+  "cellNumber": "M-097",
+  "block": "Medical",
+  "capacity": 4,
+  "currentOccupancy": 1,
+  "status": "Available",
+  "inmates": [
+    "INM037"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd58df"
+  },
+  "id": "352",
+  "cellNumber": "A-104",
+  "block": "Block A",
+  "capacity": 2,
+  "currentOccupancy": 2,
+  "status": "Occupied",
+  "inmates": [
+    "INM153",
+    "INM299"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd58e2"
+  },
+  "id": "355",
+  "cellNumber": "A-105",
+  "block": "Block A",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM086"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd58e3"
+  },
+  "id": "356",
+  "cellNumber": "A-106",
+  "block": "Block A",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM147"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd58e4"
+  },
+  "id": "357",
+  "cellNumber": "B-074",
+  "block": "Block B",
+  "capacity": 4,
+  "currentOccupancy": 3,
+  "status": "Available",
+  "inmates": [
+    "INM520",
+    "INM586",
+    "INM597"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd58e5"
+  },
+  "id": "358",
+  "cellNumber": "A-107",
+  "block": "Block A",
+  "capacity": 4,
+  "currentOccupancy": 2,
+  "status": "Available",
+  "inmates": [
+    "INM165",
+    "INM185"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd58e6"
+  },
+  "id": "359",
+  "cellNumber": "B-075",
+  "block": "Block B",
+  "capacity": 2,
+  "currentOccupancy": 2,
+  "status": "Occupied",
+  "inmates": [
+    "INM341",
+    "INM405"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd58e7"
+  },
+  "id": "360",
+  "cellNumber": "A-108",
+  "block": "Block A",
+  "capacity": 3,
+  "currentOccupancy": 3,
+  "status": "Occupied",
+  "inmates": [
+    "INM137",
+    "INM197",
+    "INM263"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd58e8"
+  },
+  "id": "361",
+  "cellNumber": "B-076",
+  "block": "Block B",
+  "capacity": 4,
+  "currentOccupancy": 3,
+  "status": "Available",
+  "inmates": [
+    "INM329",
+    "INM440",
+    "INM583"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd58e9"
+  },
+  "id": "362",
+  "cellNumber": "B-077",
+  "block": "Block B",
+  "capacity": 4,
+  "currentOccupancy": 4,
+  "status": "Occupied",
+  "inmates": [
+    "INM317",
+    "INM331",
+    "INM474",
+    "INM587"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd58ea"
+  },
+  "id": "363",
+  "cellNumber": "B-078",
+  "block": "Block B",
+  "capacity": 4,
+  "currentOccupancy": 4,
+  "status": "Occupied",
+  "inmates": [
+    "INM318",
+    "INM371",
+    "INM552",
+    "INM560"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd58eb"
+  },
+  "id": "364",
+  "cellNumber": "A-109",
+  "block": "Block A",
+  "capacity": 3,
+  "currentOccupancy": 3,
+  "status": "Occupied",
+  "inmates": [
+    "INM095",
+    "INM237",
+    "INM268"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd58ec"
+  },
+  "id": "365",
+  "cellNumber": "A-110",
+  "block": "Block A",
+  "capacity": 4,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd58f4"
+  },
+  "id": "373",
+  "cellNumber": "B-079",
+  "block": "Block B",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM431"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd58f5"
+  },
+  "id": "374",
+  "cellNumber": "A-111",
+  "block": "Block A",
+  "capacity": 3,
+  "currentOccupancy": 3,
+  "status": "Occupied",
+  "inmates": [
+    "INM006",
+    "INM091",
+    "INM120"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd58f8"
+  },
+  "id": "377",
+  "cellNumber": "A-112",
+  "block": "Block A",
+  "capacity": 4,
+  "currentOccupancy": 3,
+  "status": "Available",
+  "inmates": [
+    "INM044",
+    "INM171",
+    "INM177"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd58fa"
+  },
+  "id": "379",
+  "cellNumber": "B-080",
+  "block": "Block B",
+  "capacity": 2,
+  "currentOccupancy": 2,
+  "status": "Occupied",
+  "inmates": [
+    "INM438",
+    "INM489"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd58fd"
+  },
+  "id": "382",
+  "cellNumber": "B-081",
+  "block": "Block B",
+  "capacity": 2,
+  "currentOccupancy": 1,
+  "status": "Available",
+  "inmates": [
+    "INM458"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd58fe"
+  },
+  "id": "383",
+  "cellNumber": "A-113",
+  "block": "Block A",
+  "capacity": 4,
+  "currentOccupancy": 2,
+  "status": "Available",
+  "inmates": [
+    "INM209",
+    "INM233"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd58ff"
+  },
+  "id": "384",
+  "cellNumber": "A-114",
+  "block": "Block A",
+  "capacity": 2,
+  "currentOccupancy": 2,
+  "status": "Occupied",
+  "inmates": [
+    "INM021",
+    "INM071"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5903"
+  },
+  "id": "388",
+  "cellNumber": "B-082",
+  "block": "Block B",
+  "capacity": 4,
+  "currentOccupancy": 4,
+  "status": "Occupied",
+  "inmates": [
+    "INM412",
+    "INM491",
+    "INM542",
+    "INM564"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5904"
+  },
+  "id": "389",
+  "cellNumber": "B-083",
+  "block": "Block B",
+  "capacity": 2,
+  "currentOccupancy": 2,
+  "status": "Occupied",
+  "inmates": [
+    "INM336",
+    "INM557"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5907"
+  },
+  "id": "392",
+  "cellNumber": "A-115",
+  "block": "Block A",
+  "capacity": 4,
+  "currentOccupancy": 2,
+  "status": "Available",
+  "inmates": [
+    "INM150",
+    "INM285"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5908"
+  },
+  "id": "393",
+  "cellNumber": "B-084",
+  "block": "Block B",
+  "capacity": 3,
+  "currentOccupancy": 3,
+  "status": "Occupied",
+  "inmates": [
+    "INM429",
+    "INM550",
+    "INM551"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5909"
+  },
+  "id": "394",
+  "cellNumber": "B-085",
+  "block": "Block B",
+  "capacity": 3,
+  "currentOccupancy": 3,
+  "status": "Occupied",
+  "inmates": [
+    "INM313",
+    "INM499",
+    "INM588"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd590a"
+  },
+  "id": "395",
+  "cellNumber": "A-116",
+  "block": "Block A",
+  "capacity": 2,
+  "currentOccupancy": 2,
+  "status": "Occupied",
+  "inmates": [
+    "INM013",
+    "INM093"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd590d"
+  },
+  "id": "398",
+  "cellNumber": "B-086",
+  "block": "Block B",
+  "capacity": 3,
+  "currentOccupancy": 3,
+  "status": "Occupied",
+  "inmates": [
+    "INM396",
+    "INM547",
+    "INM595"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd590f"
+  },
+  "id": "400",
+  "cellNumber": "B-087",
+  "block": "Block B",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM453"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5910"
+  },
+  "id": "401",
+  "cellNumber": "A-117",
+  "block": "Block A",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM219"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5911"
+  },
+  "id": "402",
+  "cellNumber": "B-088",
+  "block": "Block B",
+  "capacity": 2,
+  "currentOccupancy": 2,
+  "status": "Occupied",
+  "inmates": [
+    "INM399",
+    "INM554"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5913"
+  },
+  "id": "404",
+  "cellNumber": "B-089",
+  "block": "Block B",
+  "capacity": 4,
+  "currentOccupancy": 2,
+  "status": "Available",
+  "inmates": [
+    "INM463",
+    "INM553"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5916"
+  },
+  "id": "407",
+  "cellNumber": "B-090",
+  "block": "Block B",
+  "capacity": 2,
+  "currentOccupancy": 2,
+  "status": "Occupied",
+  "inmates": [
+    "INM497",
+    "INM543"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5919"
+  },
+  "id": "410",
+  "cellNumber": "B-091",
+  "block": "Block B",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM426"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd591c"
+  },
+  "id": "413",
+  "cellNumber": "A-118",
+  "block": "Block A",
+  "capacity": 2,
+  "currentOccupancy": 2,
+  "status": "Occupied",
+  "inmates": [
+    "INM011",
+    "INM221"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd591f"
+  },
+  "id": "416",
+  "cellNumber": "B-092",
+  "block": "Block B",
+  "capacity": 4,
+  "currentOccupancy": 2,
+  "status": "Available",
+  "inmates": [
+    "INM592",
+    "INM599"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5920"
+  },
+  "id": "417",
+  "cellNumber": "A-119",
+  "block": "Block A",
+  "capacity": 2,
+  "currentOccupancy": 2,
+  "status": "Occupied",
+  "inmates": [
+    "INM118",
+    "INM144"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5921"
+  },
+  "id": "418",
+  "cellNumber": "A-120",
+  "block": "Block A",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM004"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5923"
+  },
+  "id": "420",
+  "cellNumber": "A-121",
+  "block": "Block A",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM018"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5925"
+  },
+  "id": "422",
+  "cellNumber": "B-093",
+  "block": "Block B",
+  "capacity": 2,
+  "currentOccupancy": 2,
+  "status": "Occupied",
+  "inmates": [
+    "INM500",
+    "INM590"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5926"
+  },
+  "id": "423",
+  "cellNumber": "A-122",
+  "block": "Block A",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM216"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5928"
+  },
+  "id": "425",
+  "cellNumber": "A-123",
+  "block": "Block A",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM130"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd592c"
+  },
+  "id": "429",
+  "cellNumber": "B-094",
+  "block": "Block B",
+  "capacity": 4,
+  "currentOccupancy": 2,
+  "status": "Available",
+  "inmates": [
+    "INM455",
+    "INM584"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd592f"
+  },
+  "id": "432",
+  "cellNumber": "B-095",
+  "block": "Block B",
+  "capacity": 4,
+  "currentOccupancy": 2,
+  "status": "Available",
+  "inmates": [
+    "INM524",
+    "INM533"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5933"
+  },
+  "id": "436",
+  "cellNumber": "A-124",
+  "block": "Block A",
+  "capacity": 3,
+  "currentOccupancy": 2,
+  "status": "Available",
+  "inmates": [
+    "INM107",
+    "INM274"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5934"
+  },
+  "id": "437",
+  "cellNumber": "B-096",
+  "block": "Block B",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM397"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5937"
+  },
+  "id": "440",
+  "cellNumber": "B-097",
+  "block": "Block B",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM505"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5938"
+  },
+  "id": "441",
+  "cellNumber": "B-098",
+  "block": "Block B",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM435"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd593b"
+  },
+  "id": "444",
+  "cellNumber": "B-099",
+  "block": "Block B",
+  "capacity": 4,
+  "currentOccupancy": 4,
+  "status": "Occupied",
+  "inmates": [
+    "INM369",
+    "INM411",
+    "INM437",
+    "INM531"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd593c"
+  },
+  "id": "445",
+  "cellNumber": "A-125",
+  "block": "Block A",
+  "capacity": 2,
+  "currentOccupancy": 2,
+  "status": "Occupied",
+  "inmates": [
+    "INM142",
+    "INM289"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd593e"
+  },
+  "id": "447",
+  "cellNumber": "B-100",
+  "block": "Block B",
+  "capacity": 4,
+  "currentOccupancy": 4,
+  "status": "Occupied",
+  "inmates": [
+    "INM373",
+    "INM449",
+    "INM525",
+    "INM573"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5941"
+  },
+  "id": "450",
+  "cellNumber": "A-126",
+  "block": "Block A",
+  "capacity": 4,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5942"
+  },
+  "id": "451",
+  "cellNumber": "A-127",
+  "block": "Block A",
+  "capacity": 2,
+  "currentOccupancy": 2,
+  "status": "Occupied",
+  "inmates": [
+    "INM222",
+    "INM294"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5946"
+  },
+  "id": "455",
+  "cellNumber": "A-128",
+  "block": "Block A",
+  "capacity": 4,
+  "currentOccupancy": 1,
+  "status": "Available",
+  "inmates": [
+    "INM050"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd594a"
+  },
+  "id": "459",
+  "cellNumber": "S-109",
+  "block": "Solitary",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM057"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd594b"
+  },
+  "id": "460",
+  "cellNumber": "S-110",
+  "block": "Solitary",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM055"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd594e"
+  },
+  "id": "463",
+  "cellNumber": "A-129",
+  "block": "Block A",
+  "capacity": 2,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5951"
+  },
+  "id": "466",
+  "cellNumber": "B-101",
+  "block": "Block B",
+  "capacity": 2,
+  "currentOccupancy": 2,
+  "status": "Occupied",
+  "inmates": [
+    "INM422",
+    "INM428"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5952"
+  },
+  "id": "467",
+  "cellNumber": "B-102",
+  "block": "Block B",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM503"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5954"
+  },
+  "id": "469",
+  "cellNumber": "B-103",
+  "block": "Block B",
+  "capacity": 3,
+  "currentOccupancy": 3,
+  "status": "Occupied",
+  "inmates": [
+    "INM354",
+    "INM401",
+    "INM408"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5956"
+  },
+  "id": "471",
+  "cellNumber": "B-104",
+  "block": "Block B",
+  "capacity": 3,
+  "currentOccupancy": 3,
+  "status": "Occupied",
+  "inmates": [
+    "INM339",
+    "INM383",
+    "INM514"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5957"
+  },
+  "id": "472",
+  "cellNumber": "B-105",
+  "block": "Block B",
+  "capacity": 2,
+  "currentOccupancy": 2,
+  "status": "Occupied",
+  "inmates": [
+    "INM321",
+    "INM425"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5959"
+  },
+  "id": "474",
+  "cellNumber": "B-106",
+  "block": "Block B",
+  "capacity": 3,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd595a"
+  },
+  "id": "475",
+  "cellNumber": "B-107",
+  "block": "Block B",
+  "capacity": 2,
+  "currentOccupancy": 2,
+  "status": "Occupied",
+  "inmates": [
+    "INM315",
+    "INM486"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd595b"
+  },
+  "id": "476",
+  "cellNumber": "A-130",
+  "block": "Block A",
+  "capacity": 4,
+  "currentOccupancy": 1,
+  "status": "Available",
+  "inmates": [
+    "INM056"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd595c"
+  },
+  "id": "477",
+  "cellNumber": "B-108",
+  "block": "Block B",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM566"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd595d"
+  },
+  "id": "478",
+  "cellNumber": "A-131",
+  "block": "Block A",
+  "capacity": 4,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5961"
+  },
+  "id": "482",
+  "cellNumber": "A-132",
+  "block": "Block A",
+  "capacity": 4,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5962"
+  },
+  "id": "483",
+  "cellNumber": "A-133",
+  "block": "Block A",
+  "capacity": 4,
+  "currentOccupancy": 1,
+  "status": "Available",
+  "inmates": [
+    "INM134"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5963"
+  },
+  "id": "484",
+  "cellNumber": "A-134",
+  "block": "Block A",
+  "capacity": 4,
+  "currentOccupancy": 4,
+  "status": "Occupied",
+  "inmates": [
+    "INM032",
+    "INM104",
+    "INM124",
+    "INM256"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5968"
+  },
+  "id": "489",
+  "cellNumber": "A-135",
+  "block": "Block A",
+  "capacity": 2,
+  "currentOccupancy": 2,
+  "status": "Occupied",
+  "inmates": [
+    "INM106",
+    "INM160"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5969"
+  },
+  "id": "490",
+  "cellNumber": "A-136",
+  "block": "Block A",
+  "capacity": 3,
+  "currentOccupancy": 1,
+  "status": "Available",
+  "inmates": [
+    "INM283"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd596a"
+  },
+  "id": "491",
+  "cellNumber": "A-137",
+  "block": "Block A",
+  "capacity": 4,
+  "currentOccupancy": 4,
+  "status": "Occupied",
+  "inmates": [
+    "INM175",
+    "INM183",
+    "INM247",
+    "INM300"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd596b"
+  },
+  "id": "492",
+  "cellNumber": "B-109",
+  "block": "Block B",
+  "capacity": 2,
+  "currentOccupancy": 1,
+  "status": "Available",
+  "inmates": [
+    "INM456"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd596c"
+  },
+  "id": "493",
+  "cellNumber": "B-110",
+  "block": "Block B",
+  "capacity": 4,
+  "currentOccupancy": 4,
+  "status": "Occupied",
+  "inmates": [
+    "INM416",
+    "INM578",
+    "INM591",
+    "INM601"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd596f"
+  },
+  "id": "496",
+  "cellNumber": "A-138",
+  "block": "Block A",
+  "capacity": 3,
+  "currentOccupancy": 3,
+  "status": "Occupied",
+  "inmates": [
+    "INM070",
+    "INM155",
+    "INM309"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5970"
+  },
+  "id": "497",
+  "cellNumber": "B-111",
+  "block": "Block B",
+  "capacity": 3,
+  "currentOccupancy": 3,
+  "status": "Occupied",
+  "inmates": [
+    "INM473",
+    "INM556",
+    "INM567"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5971"
+  },
+  "id": "498",
+  "cellNumber": "A-139",
+  "block": "Block A",
+  "capacity": 4,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5972"
+  },
+  "id": "499",
+  "cellNumber": "B-112",
+  "block": "Block B",
+  "capacity": 2,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5975"
+  },
+  "id": "502",
+  "cellNumber": "A-140",
+  "block": "Block A",
+  "capacity": 4,
+  "currentOccupancy": 4,
+  "status": "Occupied",
+  "inmates": [
+    "INM009",
+    "INM096",
+    "INM166",
+    "INM186"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5976"
+  },
+  "id": "503",
+  "cellNumber": "B-113",
+  "block": "Block B",
+  "capacity": 2,
+  "currentOccupancy": 1,
+  "status": "Available",
+  "inmates": [
+    "INM444"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5977"
+  },
+  "id": "504",
+  "cellNumber": "B-114",
+  "block": "Block B",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM384"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd597b"
+  },
+  "id": "508",
+  "cellNumber": "A-141",
+  "block": "Block A",
+  "capacity": 3,
+  "currentOccupancy": 1,
+  "status": "Available",
+  "inmates": [
+    "INM259"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd597c"
+  },
+  "id": "509",
+  "cellNumber": "B-115",
+  "block": "Block B",
+  "capacity": 3,
+  "currentOccupancy": 3,
+  "status": "Occupied",
+  "inmates": [
+    "INM492",
+    "INM546",
+    "INM569"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd597d"
+  },
+  "id": "510",
+  "cellNumber": "B-116",
+  "block": "Block B",
+  "capacity": 2,
+  "currentOccupancy": 2,
+  "status": "Occupied",
+  "inmates": [
+    "INM361",
+    "INM545"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5983"
+  },
+  "id": "516",
+  "cellNumber": "B-117",
+  "block": "Block B",
+  "capacity": 3,
+  "currentOccupancy": 3,
+  "status": "Occupied",
+  "inmates": [
+    "INM332",
+    "INM451",
+    "INM480"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5984"
+  },
+  "id": "517",
+  "cellNumber": "A-142",
+  "block": "Block A",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM069"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5985"
+  },
+  "id": "518",
+  "cellNumber": "A-143",
+  "block": "Block A",
+  "capacity": 1,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5986"
+  },
+  "id": "519",
+  "cellNumber": "A-144",
+  "block": "Block A",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM081"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5988"
+  },
+  "id": "521",
+  "cellNumber": "B-118",
+  "block": "Block B",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM374"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd598b"
+  },
+  "id": "524",
+  "cellNumber": "B-119",
+  "block": "Block B",
+  "capacity": 4,
+  "currentOccupancy": 3,
+  "status": "Available",
+  "inmates": [
+    "INM493",
+    "INM537",
+    "INM540"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd598c"
+  },
+  "id": "525",
+  "cellNumber": "A-145",
+  "block": "Block A",
+  "capacity": 4,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd598d"
+  },
+  "id": "526",
+  "cellNumber": "A-146",
+  "block": "Block A",
+  "capacity": 3,
+  "currentOccupancy": 1,
+  "status": "Available",
+  "inmates": [
+    "INM027"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd598e"
+  },
+  "id": "527",
+  "cellNumber": "S-126",
+  "block": "Solitary",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM048"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd598f"
+  },
+  "id": "528",
+  "cellNumber": "A-147",
+  "block": "Block A",
+  "capacity": 3,
+  "currentOccupancy": 2,
+  "status": "Available",
+  "inmates": [
+    "INM048",
+    "INM178"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5990"
+  },
+  "id": "529",
+  "cellNumber": "A-148",
+  "block": "Block A",
+  "capacity": 4,
+  "currentOccupancy": 3,
+  "status": "Available",
+  "inmates": [
+    "INM102",
+    "INM140",
+    "INM244"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5991"
+  },
+  "id": "530",
+  "cellNumber": "A-149",
+  "block": "Block A",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM028"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5994"
+  },
+  "id": "533",
+  "cellNumber": "A-150",
+  "block": "Block A",
+  "capacity": 4,
+  "currentOccupancy": 3,
+  "status": "Available",
+  "inmates": [
+    "INM180",
+    "INM190",
+    "INM266"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5995"
+  },
+  "id": "534",
+  "cellNumber": "A-151",
+  "block": "Block A",
+  "capacity": 4,
+  "currentOccupancy": 3,
+  "status": "Available",
+  "inmates": [
+    "INM015",
+    "INM270",
+    "INM292"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5997"
+  },
+  "id": "536",
+  "cellNumber": "A-152",
+  "block": "Block A",
+  "capacity": 4,
+  "currentOccupancy": 2,
+  "status": "Available",
+  "inmates": [
+    "INM010",
+    "INM128"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd599a"
+  },
+  "id": "539",
+  "cellNumber": "B-120",
+  "block": "Block B",
+  "capacity": 4,
+  "currentOccupancy": 3,
+  "status": "Available",
+  "inmates": [
+    "INM420",
+    "INM478",
+    "INM598"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd59a0"
+  },
+  "id": "545",
+  "cellNumber": "A-153",
+  "block": "Block A",
+  "capacity": 3,
+  "currentOccupancy": 3,
+  "status": "Occupied",
+  "inmates": [
+    "INM082",
+    "INM112",
+    "INM168"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd59a1"
+  },
+  "id": "546",
+  "cellNumber": "B-121",
+  "block": "Block B",
+  "capacity": 3,
+  "currentOccupancy": 3,
+  "status": "Occupied",
+  "inmates": [
+    "INM494",
+    "INM519",
+    "INM600"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd59a2"
+  },
+  "id": "547",
+  "cellNumber": "B-122",
+  "block": "Block B",
+  "capacity": 4,
+  "currentOccupancy": 4,
+  "status": "Occupied",
+  "inmates": [
+    "INM343",
+    "INM344",
+    "INM368",
+    "INM441"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd59a4"
+  },
+  "id": "549",
+  "cellNumber": "A-154",
+  "block": "Block A",
+  "capacity": 3,
+  "currentOccupancy": 1,
+  "status": "Available",
+  "inmates": [
+    "INM246"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd59a5"
+  },
+  "id": "550",
+  "cellNumber": "A-155",
+  "block": "Block A",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM052"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd59a6"
+  },
+  "id": "551",
+  "cellNumber": "B-123",
+  "block": "Block B",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM510"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd59a7"
+  },
+  "id": "552",
+  "cellNumber": "A-156",
+  "block": "Block A",
+  "capacity": 2,
+  "currentOccupancy": 2,
+  "status": "Occupied",
+  "inmates": [
+    "INM003",
+    "INM281"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd59a9"
+  },
+  "id": "554",
+  "cellNumber": "A-157",
+  "block": "Block A",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM039"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd59aa"
+  },
+  "id": "555",
+  "cellNumber": "A-158",
+  "block": "Block A",
+  "capacity": 3,
+  "currentOccupancy": 1,
+  "status": "Available",
+  "inmates": [
+    "INM065"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd59b5"
+  },
+  "id": "566",
+  "cellNumber": "A-161",
+  "block": "Block A",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM191"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd59ba"
+  },
+  "id": "571",
+  "cellNumber": "A-164",
+  "block": "Block A",
+  "capacity": 2,
+  "currentOccupancy": 2,
+  "status": "Occupied",
+  "inmates": [
+    "INM206",
+    "INM234"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd59bb"
+  },
+  "id": "572",
+  "cellNumber": "B-125",
+  "block": "Block B",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM498"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd59c3"
+  },
+  "id": "580",
+  "cellNumber": "B-127",
+  "block": "Block B",
+  "capacity": 2,
+  "currentOccupancy": 2,
+  "status": "Occupied",
+  "inmates": [
+    "INM413",
+    "INM487"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd59c9"
+  },
+  "id": "586",
+  "cellNumber": "B-128",
+  "block": "Block B",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM452"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd59cf"
+  },
+  "id": "592",
+  "cellNumber": "B-130",
+  "block": "Block B",
+  "capacity": 2,
+  "currentOccupancy": 2,
+  "status": "Occupied",
+  "inmates": [
+    "INM349",
+    "INM350"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd59d0"
+  },
+  "id": "593",
+  "cellNumber": "A-171",
+  "block": "Block A",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM094"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd59d4"
+  },
+  "id": "597",
+  "cellNumber": "A-172",
+  "block": "Block A",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM105"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd59d6"
+  },
+  "id": "599",
+  "cellNumber": "B-131",
+  "block": "Block B",
+  "capacity": 3,
+  "currentOccupancy": 3,
+  "status": "Occupied",
+  "inmates": [
+    "INM338",
+    "INM424",
+    "INM509"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd59da"
+  },
+  "id": "603",
+  "cellNumber": "A-175",
+  "block": "Block A",
+  "capacity": 2,
+  "currentOccupancy": 2,
+  "status": "Occupied",
+  "inmates": [
+    "INM046",
+    "INM290"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd59de"
+  },
+  "id": "607",
+  "cellNumber": "A-176",
+  "block": "Block A",
+  "capacity": 2,
+  "currentOccupancy": 2,
+  "status": "Occupied",
+  "inmates": [
+    "INM176",
+    "INM192"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd59e0"
+  },
+  "id": "609",
+  "cellNumber": "A-178",
+  "block": "Block A",
+  "capacity": 3,
+  "currentOccupancy": 2,
+  "status": "Available",
+  "inmates": [
+    "INM253",
+    "INM279"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd59e4"
+  },
+  "id": "613",
+  "cellNumber": "A-179",
+  "block": "Block A",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM272"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd59e8"
+  },
+  "id": "617",
+  "cellNumber": "A-180",
+  "block": "Block A",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM226"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd59ef"
+  },
+  "id": "624",
+  "cellNumber": "B-135",
+  "block": "Block B",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM390"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd59f5"
+  },
+  "id": "630",
+  "cellNumber": "A-182",
+  "block": "Block A",
+  "capacity": 2,
+  "currentOccupancy": 1,
+  "status": "Available",
+  "inmates": [
+    "INM311"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd59f7"
+  },
+  "id": "632",
+  "cellNumber": "A-184",
+  "block": "Block A",
+  "capacity": 3,
+  "currentOccupancy": 2,
+  "status": "Available",
+  "inmates": [
+    "INM145",
+    "INM184"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd59f9"
+  },
+  "id": "634",
+  "cellNumber": "B-138",
+  "block": "Block B",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM389"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5a00"
+  },
+  "id": "641",
+  "cellNumber": "B-139",
+  "block": "Block B",
+  "capacity": 1,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5a04"
+  },
+  "id": "645",
+  "cellNumber": "B-140",
+  "block": "Block B",
+  "capacity": 3,
+  "currentOccupancy": 3,
+  "status": "Occupied",
+  "inmates": [
+    "INM337",
+    "INM433",
+    "INM575"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5a06"
+  },
+  "id": "647",
+  "cellNumber": "B-141",
+  "block": "Block B",
+  "capacity": 2,
+  "currentOccupancy": 2,
+  "status": "Occupied",
+  "inmates": [
+    "INM356",
+    "INM471"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5a0d"
+  },
+  "id": "654",
+  "cellNumber": "A-186",
+  "block": "Block A",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM196"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5a12"
+  },
+  "id": "659",
+  "cellNumber": "B-143",
+  "block": "Block B",
+  "capacity": 2,
+  "currentOccupancy": 0,
+  "status": "Available",
+  "inmates": []
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5a14"
+  },
+  "id": "661",
+  "cellNumber": "A-187",
+  "block": "Block A",
+  "capacity": 2,
+  "currentOccupancy": 2,
+  "status": "Occupied",
+  "inmates": [
+    "INM123",
+    "INM141"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5a16"
+  },
+  "id": "663",
+  "cellNumber": "A-188",
+  "block": "Block A",
+  "capacity": 2,
+  "currentOccupancy": 2,
+  "status": "Occupied",
+  "inmates": [
+    "INM075",
+    "INM199"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5a1b"
+  },
+  "id": "668",
+  "cellNumber": "B-145",
+  "block": "Block B",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM466"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5a1c"
+  },
+  "id": "669",
+  "cellNumber": "A-190",
+  "block": "Block A",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM083"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5a23"
+  },
+  "id": "676",
+  "cellNumber": "B-148",
+  "block": "Block B",
+  "capacity": 2,
+  "currentOccupancy": 2,
+  "status": "Occupied",
+  "inmates": [
+    "INM358",
+    "INM479"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5a28"
+  },
+  "id": "681",
+  "cellNumber": "A-193",
+  "block": "Block A",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM295"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5a2c"
+  },
+  "id": "685",
+  "cellNumber": "A-194",
+  "block": "Block A",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM212"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5a2f"
+  },
+  "id": "688",
+  "cellNumber": "B-149",
+  "block": "Block B",
+  "capacity": 2,
+  "currentOccupancy": 2,
+  "status": "Occupied",
+  "inmates": [
+    "INM475",
+    "INM527"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5a3b"
+  },
+  "id": "700",
+  "cellNumber": "B-153",
+  "block": "Block B",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM353"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5a3c"
+  },
+  "id": "701",
+  "cellNumber": "A-197",
+  "block": "Block A",
+  "capacity": 4,
+  "currentOccupancy": 3,
+  "status": "Available",
+  "inmates": [
+    "INM012",
+    "INM215",
+    "INM273"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5a3d"
+  },
+  "id": "702",
+  "cellNumber": "B-154",
+  "block": "Block B",
+  "capacity": 2,
+  "currentOccupancy": 2,
+  "status": "Occupied",
+  "inmates": [
+    "INM334",
+    "INM447"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5a3e"
+  },
+  "id": "703",
+  "cellNumber": "A-198",
+  "block": "Block A",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM063"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5a3f"
+  },
+  "id": "704",
+  "cellNumber": "B-155",
+  "block": "Block B",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM388"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5a41"
+  },
+  "id": "706",
+  "cellNumber": "B-156",
+  "block": "Block B",
+  "capacity": 2,
+  "currentOccupancy": 1,
+  "status": "Available",
+  "inmates": [
+    "INM589"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5a42"
+  },
+  "id": "707",
+  "cellNumber": "A-199",
+  "block": "Block A",
+  "capacity": 2,
+  "currentOccupancy": 2,
+  "status": "Occupied",
+  "inmates": [
+    "INM019",
+    "INM122"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5a45"
+  },
+  "id": "710",
+  "cellNumber": "A-200",
+  "block": "Block A",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM231"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5a47"
+  },
+  "id": "712",
+  "cellNumber": "A-201",
+  "block": "Block A",
+  "capacity": 1,
+  "currentOccupancy": 1,
+  "status": "Occupied",
+  "inmates": [
+    "INM164"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5a4a"
+  },
+  "id": "715",
+  "cellNumber": "B-158",
+  "block": "Block B",
+  "capacity": 2,
+  "currentOccupancy": 1,
+  "status": "Available",
+  "inmates": [
+    "INM459"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836aa0303b29a3e21cd5a4f"
+  },
+  "id": "720",
+  "cellNumber": "A-202",
+  "block": "Block A",
+  "capacity": 3,
+  "currentOccupancy": 3,
+  "status": "Occupied",
+  "inmates": [
+    "INM054",
+    "INM060",
+    "INM126"
+  ]
+}]

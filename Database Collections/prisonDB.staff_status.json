@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "6833f07940ec780a9a9ef2de"
+  },
+  "name": "On Duty",
+  "value": 62
+},
+{
+  "_id": {
+    "$oid": "6833f07940ec780a9a9ef2df"
+  },
+  "name": "Off Duty",
+  "value": 27
+},
+{
+  "_id": {
+    "$oid": "6833f07940ec780a9a9ef2e0"
+  },
+  "name": "On Leave",
+  "value": 10
+},
+{
+  "_id": {
+    "$oid": "6833f07940ec780a9a9ef2e1"
+  },
+  "name": "Training",
+  "value": 5
+}]
