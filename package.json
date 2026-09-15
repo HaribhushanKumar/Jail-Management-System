@@ -1,0 +1,11 @@
+{
+  "name": "jail-management-system",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Root workspace fallback for Jail Management System",
+  "scripts": {
+    "build": "cd frontend && npm install && npm run build",
+    "dev": "cd frontend && npm run dev",
+    "start": "cd frontend && npm run preview"
+  }
+}

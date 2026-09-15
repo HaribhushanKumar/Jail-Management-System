@@ -42,6 +42,7 @@ project/
 │   │   └── application.properties # Dynamic Environment Overrides (PORT, MONGODB_URI)
 │   ├── Dockerfile            # Container build specification for Render / Docker
 │   └── pom.xml
+├── package.json              # Root package.json (delegates build/dev to frontend)
 └── README.md                 # Project Documentation
 ```
 
@@ -115,40 +116,53 @@ Open your browser at `http://localhost:5173`.
 
 ### 1. Frontend Deployment on **Vercel**
 
-1. **Push your code** to GitHub/GitLab.
-2. Sign in to your [Vercel Dashboard](https://vercel.com) and click **"Add New Project"**.
-3. Import your repository and set the **Root Directory** to `frontend`.
-4. Configure Build Settings:
+1. Sign in to [Vercel Dashboard](https://vercel.com) and click **"Add New Project"**.
+2. Import repository `HaribhushanKumar/Jail-Management-System`.
+3. Set **Root Directory**: `frontend`
+4. Build Settings:
    - **Framework Preset**: Vite
    - **Build Command**: `npm run build`
    - **Output Directory**: `dist`
-5. **Add Environment Variable**:
-   - **Key**: `VITE_API_BASE_URL`
-   - **Value**: `https://your-backend-name.onrender.com` (Your live Backend URL on Render)
-6. Click **Deploy**. Vercel will automatically build and deploy your app. Single-page navigation routing is pre-configured via `frontend/vercel.json`.
+5. **Environment Variable**:
+   - `VITE_API_BASE_URL` = `https://<your-render-backend-name>.onrender.com`
+6. Click **Deploy**.
 
 ---
 
-### 2. Backend Deployment on **Render**
+### 2. Backend Deployment on **Render** (Web Service)
+
+> [!IMPORTANT]
+> Render defaults to building at repository root `/` with Node.js if Root Directory is left blank. Make sure to set **Root Directory** to `backend`!
 
 #### Option A: Docker Deployment (Recommended)
 1. Sign in to [Render Dashboard](https://render.com) and click **"New Web Service"**.
-2. Connect your repository.
-3. Set **Root Directory** to `backend`.
-4. Select **Runtime**: `Docker`. Render will automatically detect `backend/Dockerfile`.
+2. Connect repository `HaribhushanKumar/Jail-Management-System`.
+3. Set **Root Directory**: `backend`
+4. Select **Language / Runtime**: `Docker` (Render will use `backend/Dockerfile`).
 5. Under **Environment Variables**, add:
-   - `MONGODB_URI`: Your MongoDB Atlas Connection String (`mongodb+srv://rpy6425_db_user:PcEi6bk2p93GRfiL@cluster0.3f1kdpp.mongodb.net/prisonDB?retryWrites=true&w=majority`)
-   - `PORT`: `8080` (or leave default as Render injects `PORT`)
+   - `MONGODB_URI`: `mongodb+srv://rpy6425_db_user:PcEi6bk2p93GRfiL@cluster0.3f1kdpp.mongodb.net/prisonDB?retryWrites=true&w=majority`
+   - `PORT`: `8080`
 6. Click **Create Web Service**.
 
-#### Option B: Native Maven Environment
+#### Option B: Java Runtime
 1. Click **"New Web Service"** on Render.
-2. Set **Root Directory** to `backend`.
-3. Select **Environment**: `Java`.
+2. Set **Root Directory**: `backend`
+3. Select **Language / Environment**: `Java`
 4. Set **Build Command**: `./mvnw clean package -DskipTests`
 5. Set **Start Command**: `java -jar target/Prisonman-0.0.1-SNAPSHOT.jar`
-6. Add environment variable `MONGODB_URI` pointing to your MongoDB Atlas cluster.
+6. Under **Environment Variables**, add `MONGODB_URI` and `PORT`.
 7. Click **Create Web Service**.
+
+---
+
+### 3. Frontend Deployment on **Render** (Static Site - Alternative to Vercel)
+
+If you choose to deploy Frontend on Render instead of Vercel:
+1. Click **"New Static Site"** on Render.
+2. Set **Root Directory**: `frontend`
+3. Set **Build Command**: `npm install && npm run build`
+4. Set **Publish Directory**: `dist`
+5. Under **Environment Variables**, add `VITE_API_BASE_URL`.
 
 ---
 
@@ -168,13 +182,3 @@ Open your browser at `http://localhost:5173`.
 | `/api/dashboard/summary` | GET | Retrieve live counts (Inmates, Staff, Cells, Visitors) |
 | `/api/dashboard/charts` | GET | Retrieve analytics trends (Security Level, Occupancy) |
 | `/api/chatbot/query` | POST | Jail AI RAG Chatbot response generator |
-
----
-
-## 🛡️ Key Features & UX Highlights
-
-- **Pure White Aesthetic**: Ultra-clean, modern, white visual theme with high-contrast readable typography and subtle slate borders.
-- **Dynamic API Config**: 100% centralized API URL resolution using `frontend/.env`.
-- **Persistent Session State**: 8-hour auth session storage preventing unexpected logouts on page refresh.
-- **Embedded Jail AI Assistant**: Built-in interactive floating RAG Chatbot in the bottom-right corner trained on all facility operations and management modules.
-- **Full CRUD Capabilities**: Add, view, edit, update, and delete functionality across all facility management tables.
