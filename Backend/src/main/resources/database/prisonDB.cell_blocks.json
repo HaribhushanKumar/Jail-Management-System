@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "6833f07440ec780a9a9ef2da"
+  },
+  "name": "Block A",
+  "capacity": 444,
+  "current": 312,
+  "utilization": 70
+},
+{
+  "_id": {
+    "$oid": "6833f07440ec780a9a9ef2db"
+  },
+  "name": "Block B",
+  "capacity": 349,
+  "current": 289,
+  "utilization": 83
+},
+{
+  "_id": {
+    "$oid": "6833f07440ec780a9a9ef2dc"
+  },
+  "name": "Medical",
+  "capacity": 180,
+  "current": 45,
+  "utilization": 25
+},
+{
+  "_id": {
+    "$oid": "6833f07440ec780a9a9ef2dd"
+  },
+  "name": "Solitary",
+  "capacity": 60,
+  "current": 12,
+  "utilization": 20
+}]

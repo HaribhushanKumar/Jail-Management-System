@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "6833f07d40ec780a9a9ef2e2"
+  },
+  "day": "Mon",
+  "admissions": 3,
+  "releases": 2,
+  "visitors": 22,
+  "incidents": 1
+},
+{
+  "_id": {
+    "$oid": "6833f07d40ec780a9a9ef2e3"
+  },
+  "day": "Tue",
+  "admissions": 5,
+  "releases": 3,
+  "visitors": 18,
+  "incidents": 3
+},
+{
+  "_id": {
+    "$oid": "6833f07d40ec780a9a9ef2e4"
+  },
+  "day": "Wed",
+  "admissions": 2,
+  "releases": 4,
+  "visitors": 24,
+  "incidents": 2
+},
+{
+  "_id": {
+    "$oid": "6833f07d40ec780a9a9ef2e5"
+  },
+  "day": "Thu",
+  "admissions": 6,
+  "releases": 1,
+  "visitors": 20,
+  "incidents": 4
+},
+{
+  "_id": {
+    "$oid": "6833f07d40ec780a9a9ef2e6"
+  },
+  "day": "Fri",
+  "admissions": 4,
+  "releases": 5,
+  "visitors": 32,
+  "incidents": 2
+},
+{
+  "_id": {
+    "$oid": "6833f07d40ec780a9a9ef2e7"
+  },
+  "day": "Sat",
+  "admissions": 2,
+  "releases": 0,
+  "visitors": 45,
+  "incidents": 3
+},
+{
+  "_id": {
+    "$oid": "6833f07d40ec780a9a9ef2e8"
+  },
+  "day": "Sun",
+  "admissions": 1,
+  "releases": 1,
+  "visitors": 15,
+  "incidents": 0
+}]

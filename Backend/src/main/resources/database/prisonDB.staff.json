@@ -1,0 +1,1456 @@
+[{
+  "_id": {
+    "$oid": "6835a86c660b0406c8061028"
+  },
+  "id": "1",
+  "name": "Daniel Robinson",
+  "employeeId": "EMP001",
+  "position": "Warden",
+  "department": "Cafeteria",
+  "shift": "Day",
+  "status": "On Duty",
+  "hireDate": "2021-02-03",
+  "phone": "+6 9172801794"
+},
+{
+  "_id": {
+    "$oid": "6835a86c660b0406c8061029"
+  },
+  "id": "2",
+  "name": "Eric Alvarez",
+  "employeeId": "EMP002",
+  "position": "Clerk",
+  "department": "Maintenance",
+  "shift": "Day",
+  "status": "On Duty",
+  "hireDate": "2018-04-22",
+  "phone": "+6 9094643238"
+},
+{
+  "_id": {
+    "$oid": "6835a86c660b0406c806102a"
+  },
+  "id": "3",
+  "name": "William Townsend",
+  "employeeId": "EMP003",
+  "position": "Technician",
+  "department": "Medical",
+  "shift": "Day",
+  "status": "On Duty",
+  "hireDate": "2020-06-26",
+  "phone": "+75 9511316271"
+},
+{
+  "_id": {
+    "$oid": "6835a86c660b0406c806102b"
+  },
+  "id": "4",
+  "name": "Christian Trevino",
+  "employeeId": "EMP004",
+  "position": "Technician",
+  "department": "Security",
+  "shift": "Day",
+  "status": "On Duty",
+  "hireDate": "2021-03-16",
+  "phone": "+87 9849114830"
+},
+{
+  "_id": {
+    "$oid": "6835a86c660b0406c806102c"
+  },
+  "id": "5",
+  "name": "Maria Gilbert",
+  "employeeId": "EMP005",
+  "position": "Guard",
+  "department": "Medical",
+  "shift": "Day",
+  "status": "On Duty",
+  "hireDate": "2019-04-09",
+  "phone": "+8 9523952901"
+},
+{
+  "_id": {
+    "$oid": "6835a86c660b0406c806102d"
+  },
+  "id": "6",
+  "name": "Tiffany Morris",
+  "employeeId": "EMP006",
+  "position": "Technician",
+  "department": "Cafeteria",
+  "shift": "Day",
+  "status": "On Duty",
+  "hireDate": "2018-07-01",
+  "phone": "+4 9427910234"
+},
+{
+  "_id": {
+    "$oid": "6835a86c660b0406c806102e"
+  },
+  "id": "7",
+  "name": "Jodi Mccoy",
+  "employeeId": "EMP007",
+  "position": "Cook",
+  "department": "Security",
+  "shift": "Day",
+  "status": "On Duty",
+  "hireDate": "2018-12-10",
+  "phone": "+14 9630295243"
+},
+{
+  "_id": {
+    "$oid": "6835a86c660b0406c806102f"
+  },
+  "id": "8",
+  "name": "Christopher Porter",
+  "employeeId": "EMP008",
+  "position": "Clerk",
+  "department": "Maintenance",
+  "shift": "Night",
+  "status": "On Duty",
+  "hireDate": "2021-07-23",
+  "phone": "+81 9061249896"
+},
+{
+  "_id": {
+    "$oid": "6835a86c660b0406c8061030"
+  },
+  "id": "9",
+  "name": "Howard Costa",
+  "employeeId": "EMP009",
+  "position": "Guard",
+  "department": "Medical",
+  "shift": "Day",
+  "status": "On Duty",
+  "hireDate": "2023-02-22",
+  "phone": "+54 9813064613"
+},
+{
+  "_id": {
+    "$oid": "6835a86c660b0406c8061031"
+  },
+  "id": "10",
+  "name": "Jessica Kim",
+  "employeeId": "EMP010",
+  "position": "Nurse",
+  "department": "Cafeteria",
+  "shift": "Night",
+  "status": "On Duty",
+  "hireDate": "2016-04-20",
+  "phone": "+90 9240976939"
+},
+{
+  "_id": {
+    "$oid": "6835a86c660b0406c8061032"
+  },
+  "id": "11",
+  "name": "Brenda Zamora",
+  "employeeId": "EMP011",
+  "position": "Clerk",
+  "department": "Medical",
+  "shift": "Day",
+  "status": "On Duty",
+  "hireDate": "2016-07-06",
+  "phone": "+50 9005150594"
+},
+{
+  "_id": {
+    "$oid": "6835a86c660b0406c8061033"
+  },
+  "id": "12",
+  "name": "Kathy Brady",
+  "employeeId": "EMP012",
+  "position": "Guard",
+  "department": "Administration",
+  "shift": "Day",
+  "status": "On Duty",
+  "hireDate": "2024-11-28",
+  "phone": "+28 9327874912"
+},
+{
+  "_id": {
+    "$oid": "6835a86c660b0406c8061034"
+  },
+  "id": "13",
+  "name": "Keith Ward",
+  "employeeId": "EMP013",
+  "position": "Technician",
+  "department": "Medical",
+  "shift": "Day",
+  "status": "On Duty",
+  "hireDate": "2019-02-07",
+  "phone": "+43 9627986885"
+},
+{
+  "_id": {
+    "$oid": "6835a86c660b0406c8061035"
+  },
+  "id": "14",
+  "name": "Rachel Brown",
+  "employeeId": "EMP014",
+  "position": "Cook",
+  "department": "Administration",
+  "shift": "Day",
+  "status": "On Duty",
+  "hireDate": "2024-08-05",
+  "phone": "+66 8996702066"
+},
+{
+  "_id": {
+    "$oid": "6835a86c660b0406c8061036"
+  },
+  "id": "15",
+  "name": "Rebecca Walker",
+  "employeeId": "EMP015",
+  "position": "Technician",
+  "department": "Cafeteria",
+  "shift": "Day",
+  "status": "On Duty",
+  "hireDate": "2016-06-10",
+  "phone": "+37 9822379174"
+},
+{
+  "_id": {
+    "$oid": "6835a86c660b0406c8061037"
+  },
+  "id": "16",
+  "name": "Michael Smith",
+  "employeeId": "EMP016",
+  "position": "Cook",
+  "department": "Maintenance",
+  "shift": "Night",
+  "status": "On Duty",
+  "hireDate": "2016-05-02",
+  "phone": "+71 9406103297"
+},
+{
+  "_id": {
+    "$oid": "6835a86c660b0406c8061038"
+  },
+  "id": "17",
+  "name": "Susan Holmes",
+  "employeeId": "EMP017",
+  "position": "Clerk",
+  "department": "Medical",
+  "shift": "Day",
+  "status": "On Duty",
+  "hireDate": "2015-12-31",
+  "phone": "+16 9467017309"
+},
+{
+  "_id": {
+    "$oid": "6835a86c660b0406c8061039"
+  },
+  "id": "18",
+  "name": "Elizabeth Davis",
+  "employeeId": "EMP018",
+  "position": "Warden",
+  "department": "Medical",
+  "shift": "Day",
+  "status": "On Duty",
+  "hireDate": "2017-11-15",
+  "phone": "+85 9804034475"
+},
+{
+  "_id": {
+    "$oid": "6835a86c660b0406c806103a"
+  },
+  "id": "19",
+  "name": "Victor Sanchez",
+  "employeeId": "EMP019",
+  "position": "Warden",
+  "department": "Medical",
+  "shift": "Night",
+  "status": "On Duty",
+  "hireDate": "2018-01-22",
+  "phone": "+9 9125532307"
+},
+{
+  "_id": {
+    "$oid": "6835a86c660b0406c806103b"
+  },
+  "id": "20",
+  "name": "Loretta Rodriguez",
+  "employeeId": "EMP020",
+  "position": "Warden",
+  "department": "Cafeteria",
+  "shift": "Day",
+  "status": "On Duty",
+  "hireDate": "2018-07-26",
+  "phone": "+17 8920751240"
+},
+{
+  "_id": {
+    "$oid": "6835a86c660b0406c806103c"
+  },
+  "id": "21",
+  "name": "Rebecca Donaldson",
+  "employeeId": "EMP021",
+  "position": "Technician",
+  "department": "Medical",
+  "shift": "Rotating",
+  "status": "On Duty",
+  "hireDate": "2023-05-18",
+  "phone": "+42 9480310681"
+},
+{
+  "_id": {
+    "$oid": "6835a86c660b0406c806103d"
+  },
+  "id": "22",
+  "name": "Joseph Barajas",
+  "employeeId": "EMP022",
+  "position": "Cook",
+  "department": "Cafeteria",
+  "shift": "Day",
+  "status": "On Duty",
+  "hireDate": "2017-03-19",
+  "phone": "+45 9869086395"
+},
+{
+  "_id": {
+    "$oid": "6835a86c660b0406c806103e"
+  },
+  "id": "23",
+  "name": "Ann Martinez",
+  "employeeId": "EMP023",
+  "position": "Clerk",
+  "department": "Maintenance",
+  "shift": "Day",
+  "status": "On Duty",
+  "hireDate": "2016-08-30",
+  "phone": "+71 9266914191"
+},
+{
+  "_id": {
+    "$oid": "6835a86c660b0406c806103f"
+  },
+  "id": "24",
+  "name": "Laura Brown",
+  "employeeId": "EMP024",
+  "position": "Technician",
+  "department": "Security",
+  "shift": "Day",
+  "status": "On Duty",
+  "hireDate": "2018-01-04",
+  "phone": "+19 9853161152"
+},
+{
+  "_id": {
+    "$oid": "6835a86c660b0406c8061040"
+  },
+  "id": "25",
+  "name": "David Reed",
+  "employeeId": "EMP025",
+  "position": "Nurse",
+  "department": "Administration",
+  "shift": "Day",
+  "status": "On Duty",
+  "hireDate": "2024-12-15",
+  "phone": "+30 9457378259"
+},
+{
+  "_id": {
+    "$oid": "6835a86c660b0406c8061041"
+  },
+  "id": "26",
+  "name": "Lisa Olsen",
+  "employeeId": "EMP026",
+  "position": "Warden",
+  "department": "Security",
+  "shift": "Night",
+  "status": "On Duty",
+  "hireDate": "2021-05-01",
+  "phone": "+74 9655360134"
+},
+{
+  "_id": {
+    "$oid": "6835a86c660b0406c8061042"
+  },
+  "id": "27",
+  "name": "Tamara Miller",
+  "employeeId": "EMP027",
+  "position": "Warden",
+  "department": "Administration",
+  "shift": "Day",
+  "status": "On Duty",
+  "hireDate": "2016-07-17",
+  "phone": "+13 9862311330"
+},
+{
+  "_id": {
+    "$oid": "6835a86c660b0406c8061043"
+  },
+  "id": "28",
+  "name": "Dawn Giles",
+  "employeeId": "EMP028",
+  "position": "Nurse",
+  "department": "Security",
+  "shift": "Day",
+  "status": "On Duty",
+  "hireDate": "2018-02-19",
+  "phone": "+34 9820230989"
+},
+{
+  "_id": {
+    "$oid": "6835a86c660b0406c8061044"
+  },
+  "id": "29",
+  "name": "Ronald Young",
+  "employeeId": "EMP029",
+  "position": "Clerk",
+  "department": "Medical",
+  "shift": "Day",
+  "status": "On Duty",
+  "hireDate": "2023-10-14",
+  "phone": "+51 9297128038"
+},
+{
+  "_id": {
+    "$oid": "6835a86c660b0406c8061045"
+  },
+  "id": "30",
+  "name": "Debra Jackson",
+  "employeeId": "EMP030",
+  "position": "Technician",
+  "department": "Maintenance",
+  "shift": "Night",
+  "status": "On Duty",
+  "hireDate": "2021-01-27",
+  "phone": "+12 9405638549"
+},
+{
+  "_id": {
+    "$oid": "6835a86c660b0406c8061046"
+  },
+  "id": "31",
+  "name": "Rachael Landry",
+  "employeeId": "EMP031",
+  "position": "Warden",
+  "department": "Security",
+  "shift": "Day",
+  "status": "On Duty",
+  "hireDate": "2019-03-23",
+  "phone": "+50 9446132966"
+},
+{
+  "_id": {
+    "$oid": "6835a86c660b0406c8061047"
+  },
+  "id": "32",
+  "name": "Erin Brown MD",
+  "employeeId": "EMP032",
+  "position": "Clerk",
+  "department": "Administration",
+  "shift": "Day",
+  "status": "On Duty",
+  "hireDate": "2017-11-19",
+  "phone": "+47 9714125055"
+},
+{
+  "_id": {
+    "$oid": "6835a86c660b0406c8061048"
+  },
+  "id": "33",
+  "name": "Robert Smith",
+  "employeeId": "EMP033",
+  "position": "Nurse",
+  "department": "Medical",
+  "shift": "Day",
+  "status": "On Duty",
+  "hireDate": "2016-11-04",
+  "phone": "+31 9555097660"
+},
+{
+  "_id": {
+    "$oid": "6835a86c660b0406c8061049"
+  },
+  "id": "34",
+  "name": "Thomas Banks",
+  "employeeId": "EMP034",
+  "position": "Nurse",
+  "department": "Security",
+  "shift": "Night",
+  "status": "On Duty",
+  "hireDate": "2015-06-10",
+  "phone": "+78 9750311532"
+},
+{
+  "_id": {
+    "$oid": "6835a86c660b0406c806104a"
+  },
+  "id": "35",
+  "name": "Daniel Hull",
+  "employeeId": "EMP035",
+  "position": "Warden",
+  "department": "Maintenance",
+  "shift": "Rotating",
+  "status": "On Duty",
+  "hireDate": "2024-06-15",
+  "phone": "+37 9189843469"
+},
+{
+  "_id": {
+    "$oid": "6835a86c660b0406c806104b"
+  },
+  "id": "36",
+  "name": "Richard Kerr MD",
+  "employeeId": "EMP036",
+  "position": "Guard",
+  "department": "Security",
+  "shift": "Day",
+  "status": "On Duty",
+  "hireDate": "2020-10-23",
+  "phone": "+7 9783271130"
+},
+{
+  "_id": {
+    "$oid": "6835a86c660b0406c806104c"
+  },
+  "id": "37",
+  "name": "George Warren",
+  "employeeId": "EMP037",
+  "position": "Nurse",
+  "department": "Security",
+  "shift": "Night",
+  "status": "On Duty",
+  "hireDate": "2023-11-22",
+  "phone": "+51 9628222327"
+},
+{
+  "_id": {
+    "$oid": "6835a86c660b0406c806104d"
+  },
+  "id": "38",
+  "name": "Samantha Evans",
+  "employeeId": "EMP038",
+  "position": "Cook",
+  "department": "Cafeteria",
+  "shift": "Day",
+  "status": "On Duty",
+  "hireDate": "2020-12-24",
+  "phone": "+74 8914115416"
+},
+{
+  "_id": {
+    "$oid": "6835a86c660b0406c806104e"
+  },
+  "id": "39",
+  "name": "Marc Garcia",
+  "employeeId": "EMP039",
+  "position": "Warden",
+  "department": "Administration",
+  "shift": "Day",
+  "status": "On Duty",
+  "hireDate": "2020-08-09",
+  "phone": "+28 9103020254"
+},
+{
+  "_id": {
+    "$oid": "6835a86c660b0406c806104f"
+  },
+  "id": "40",
+  "name": "Matthew Ross",
+  "employeeId": "EMP040",
+  "position": "Warden",
+  "department": "Administration",
+  "shift": "Day",
+  "status": "On Duty",
+  "hireDate": "2022-11-16",
+  "phone": "+87 9498527783"
+},
+{
+  "_id": {
+    "$oid": "6835a86c660b0406c8061050"
+  },
+  "id": "41",
+  "name": "Lisa Dixon",
+  "employeeId": "EMP041",
+  "position": "Technician",
+  "department": "Administration",
+  "shift": "Day",
+  "status": "On Duty",
+  "hireDate": "2016-05-29",
+  "phone": "+40 9090003612"
+},
+{
+  "_id": {
+    "$oid": "6835a86c660b0406c8061051"
+  },
+  "id": "42",
+  "name": "Lindsey Williams",
+  "employeeId": "EMP042",
+  "position": "Guard",
+  "department": "Security",
+  "shift": "Day",
+  "status": "On Duty",
+  "hireDate": "2022-08-28",
+  "phone": "+50 9777225762"
+},
+{
+  "_id": {
+    "$oid": "6835a86c660b0406c8061052"
+  },
+  "id": "43",
+  "name": "Mary Green",
+  "employeeId": "EMP043",
+  "position": "Nurse",
+  "department": "Medical",
+  "shift": "Rotating",
+  "status": "On Duty",
+  "hireDate": "2018-09-19",
+  "phone": "+50 9452977867"
+},
+{
+  "_id": {
+    "$oid": "6835a86c660b0406c8061053"
+  },
+  "id": "44",
+  "name": "Jeremy Acosta",
+  "employeeId": "EMP044",
+  "position": "Nurse",
+  "department": "Administration",
+  "shift": "Night",
+  "status": "On Duty",
+  "hireDate": "2021-10-14",
+  "phone": "+21 9421247632"
+},
+{
+  "_id": {
+    "$oid": "6835a86c660b0406c8061054"
+  },
+  "id": "45",
+  "name": "Melissa Church",
+  "employeeId": "EMP045",
+  "position": "Cook",
+  "department": "Medical",
+  "shift": "Day",
+  "status": "On Duty",
+  "hireDate": "2018-07-08",
+  "phone": "+9 8992431784"
+},
+{
+  "_id": {
+    "$oid": "6835a86c660b0406c8061055"
+  },
+  "id": "46",
+  "name": "Alejandro Martinez",
+  "employeeId": "EMP046",
+  "position": "Clerk",
+  "department": "Security",
+  "shift": "Day",
+  "status": "On Duty",
+  "hireDate": "2018-12-16",
+  "phone": "+26 9741600041"
+},
+{
+  "_id": {
+    "$oid": "6835a86c660b0406c8061056"
+  },
+  "id": "47",
+  "name": "Jessica Lozano",
+  "employeeId": "EMP047",
+  "position": "Cook",
+  "department": "Maintenance",
+  "shift": "Night",
+  "status": "On Duty",
+  "hireDate": "2020-11-13",
+  "phone": "+61 9600721193"
+},
+{
+  "_id": {
+    "$oid": "6835a86c660b0406c8061057"
+  },
+  "id": "48",
+  "name": "Sheri Goodwin",
+  "employeeId": "EMP048",
+  "position": "Warden",
+  "department": "Cafeteria",
+  "shift": "Day",
+  "status": "On Duty",
+  "hireDate": "2019-08-02",
+  "phone": "+81 9199814424"
+},
+{
+  "_id": {
+    "$oid": "6835a86c660b0406c8061058"
+  },
+  "id": "49",
+  "name": "Erik Roberts",
+  "employeeId": "EMP049",
+  "position": "Clerk",
+  "department": "Medical",
+  "shift": "Day",
+  "status": "On Duty",
+  "hireDate": "2021-07-04",
+  "phone": "+80 9020974835"
+},
+{
+  "_id": {
+    "$oid": "6835a86c660b0406c8061059"
+  },
+  "id": "50",
+  "name": "Rachel Harris",
+  "employeeId": "EMP050",
+  "position": "Guard",
+  "department": "Security",
+  "shift": "Day",
+  "status": "On Duty",
+  "hireDate": "2018-12-13",
+  "phone": "+89 9448248060"
+},
+{
+  "_id": {
+    "$oid": "6835a86c660b0406c806105a"
+  },
+  "id": "51",
+  "name": "Leah Edwards",
+  "employeeId": "EMP051",
+  "position": "Nurse",
+  "department": "Administration",
+  "shift": "Day",
+  "status": "On Duty",
+  "hireDate": "2022-09-04",
+  "phone": "+26 9249531387"
+},
+{
+  "_id": {
+    "$oid": "6835a86c660b0406c806105b"
+  },
+  "id": "52",
+  "name": "Julia Stewart",
+  "employeeId": "EMP052",
+  "position": "Cook",
+  "department": "Cafeteria",
+  "shift": "Day",
+  "status": "On Duty",
+  "hireDate": "2019-04-06",
+  "phone": "+29 9575020753"
+},
+{
+  "_id": {
+    "$oid": "6835a86c660b0406c806105c"
+  },
+  "id": "53",
+  "name": "Virginia Coffey",
+  "employeeId": "EMP053",
+  "position": "Technician",
+  "department": "Maintenance",
+  "shift": "Day",
+  "status": "On Duty",
+  "hireDate": "2017-06-22",
+  "phone": "+39 9716422123"
+},
+{
+  "_id": {
+    "$oid": "6835a86c660b0406c806105d"
+  },
+  "id": "54",
+  "name": "Jeffrey Pierce",
+  "employeeId": "EMP054",
+  "position": "Clerk",
+  "department": "Administration",
+  "shift": "Day",
+  "status": "On Duty",
+  "hireDate": "2022-07-24",
+  "phone": "+33 9698350875"
+},
+{
+  "_id": {
+    "$oid": "6835a86c660b0406c806105e"
+  },
+  "id": "55",
+  "name": "Krystal Martin",
+  "employeeId": "EMP055",
+  "position": "Guard",
+  "department": "Cafeteria",
+  "shift": "Rotating",
+  "status": "On Duty",
+  "hireDate": "2017-11-10",
+  "phone": "+82 9464514641"
+},
+{
+  "_id": {
+    "$oid": "6835a86c660b0406c806105f"
+  },
+  "id": "56",
+  "name": "Brenda Mason",
+  "employeeId": "EMP056",
+  "position": "Cook",
+  "department": "Administration",
+  "shift": "Day",
+  "status": "On Duty",
+  "hireDate": "2019-03-20",
+  "phone": "+51 9315857490"
+},
+{
+  "_id": {
+    "$oid": "6835a86c660b0406c8061060"
+  },
+  "id": "57",
+  "name": "James Giles",
+  "employeeId": "EMP057",
+  "position": "Warden",
+  "department": "Maintenance",
+  "shift": "Day",
+  "status": "On Duty",
+  "hireDate": "2016-02-16",
+  "phone": "+22 8925131855"
+},
+{
+  "_id": {
+    "$oid": "6835a86c660b0406c8061061"
+  },
+  "id": "58",
+  "name": "Jerry Butler",
+  "employeeId": "EMP058",
+  "position": "Guard",
+  "department": "Security",
+  "shift": "Rotating",
+  "status": "On Duty",
+  "hireDate": "2019-04-20",
+  "phone": "+77 9036076898"
+},
+{
+  "_id": {
+    "$oid": "6835a86c660b0406c8061062"
+  },
+  "id": "59",
+  "name": "Jose Howell",
+  "employeeId": "EMP059",
+  "position": "Cook",
+  "department": "Security",
+  "shift": "Day",
+  "status": "On Duty",
+  "hireDate": "2022-01-14",
+  "phone": "+0 9086112203"
+},
+{
+  "_id": {
+    "$oid": "6835a86c660b0406c8061063"
+  },
+  "id": "60",
+  "name": "Jamie Pearson",
+  "employeeId": "EMP060",
+  "position": "Clerk",
+  "department": "Medical",
+  "shift": "Day",
+  "status": "On Duty",
+  "hireDate": "2022-03-19",
+  "phone": "+12 9833099196"
+},
+{
+  "_id": {
+    "$oid": "6835a86c660b0406c8061064"
+  },
+  "id": "61",
+  "name": "Maurice Lawrence",
+  "employeeId": "EMP061",
+  "position": "Guard",
+  "department": "Medical",
+  "shift": "Rotating",
+  "status": "On Duty",
+  "hireDate": "2020-05-06",
+  "phone": "+48 9837476523"
+},
+{
+  "_id": {
+    "$oid": "6835a86c660b0406c8061065"
+  },
+  "id": "62",
+  "name": "Christopher Williams",
+  "employeeId": "EMP062",
+  "position": "Clerk",
+  "department": "Maintenance",
+  "shift": "Day",
+  "status": "On Duty",
+  "hireDate": "2017-08-07",
+  "phone": "+2 8961097497"
+},
+{
+  "_id": {
+    "$oid": "6835a965bf281f2a363dca71"
+  },
+  "id": "63",
+  "name": "Kimberly Sharp",
+  "employeeId": "EMP063",
+  "position": "Nurse",
+  "department": "Maintenance",
+  "shift": "Day",
+  "status": "Off Duty",
+  "hireDate": "2024-08-07",
+  "phone": "+32 9217570792"
+},
+{
+  "_id": {
+    "$oid": "6835a965bf281f2a363dca72"
+  },
+  "id": "64",
+  "name": "Brooke Salazar",
+  "employeeId": "EMP064",
+  "position": "Guard",
+  "department": "Medical",
+  "shift": "Night",
+  "status": "Off Duty",
+  "hireDate": "2021-05-28",
+  "phone": "+15 9509669172"
+},
+{
+  "_id": {
+    "$oid": "6835a965bf281f2a363dca73"
+  },
+  "id": "65",
+  "name": "Patricia Clark",
+  "employeeId": "EMP065",
+  "position": "Guard",
+  "department": "Maintenance",
+  "shift": "Day",
+  "status": "Off Duty",
+  "hireDate": "2017-03-06",
+  "phone": "+38 9639980078"
+},
+{
+  "_id": {
+    "$oid": "6835a965bf281f2a363dca74"
+  },
+  "id": "66",
+  "name": "Robert Smith",
+  "employeeId": "EMP066",
+  "position": "Cook",
+  "department": "Cafeteria",
+  "shift": "Day",
+  "status": "Off Duty",
+  "hireDate": "2021-05-13",
+  "phone": "+27 9646543062"
+},
+{
+  "_id": {
+    "$oid": "6835a965bf281f2a363dca75"
+  },
+  "id": "67",
+  "name": "Deborah Murphy",
+  "employeeId": "EMP067",
+  "position": "Warden",
+  "department": "Security",
+  "shift": "Day",
+  "status": "Off Duty",
+  "hireDate": "2025-03-12",
+  "phone": "+29 9796707444"
+},
+{
+  "_id": {
+    "$oid": "6835a965bf281f2a363dca76"
+  },
+  "id": "68",
+  "name": "April Johnson",
+  "employeeId": "EMP068",
+  "position": "Clerk",
+  "department": "Maintenance",
+  "shift": "Day",
+  "status": "Off Duty",
+  "hireDate": "2023-03-25",
+  "phone": "+27 9003914280"
+},
+{
+  "_id": {
+    "$oid": "6835a965bf281f2a363dca77"
+  },
+  "id": "69",
+  "name": "Anthony Perry",
+  "employeeId": "EMP069",
+  "position": "Guard",
+  "department": "Medical",
+  "shift": "Day",
+  "status": "Off Duty",
+  "hireDate": "2019-11-27",
+  "phone": "+31 9012916483"
+},
+{
+  "_id": {
+    "$oid": "6835a965bf281f2a363dca78"
+  },
+  "id": "70",
+  "name": "Joseph Kirby",
+  "employeeId": "EMP070",
+  "position": "Nurse",
+  "department": "Security",
+  "shift": "Day",
+  "status": "Off Duty",
+  "hireDate": "2023-03-23",
+  "phone": "+59 8913216502"
+},
+{
+  "_id": {
+    "$oid": "6835a965bf281f2a363dca79"
+  },
+  "id": "71",
+  "name": "David Martin",
+  "employeeId": "EMP071",
+  "position": "Clerk",
+  "department": "Medical",
+  "shift": "Night",
+  "status": "Off Duty",
+  "hireDate": "2022-04-12",
+  "phone": "+15 9756914586"
+},
+{
+  "_id": {
+    "$oid": "6835a965bf281f2a363dca7a"
+  },
+  "id": "72",
+  "name": "Cynthia Lee",
+  "employeeId": "EMP072",
+  "position": "Warden",
+  "department": "Cafeteria",
+  "shift": "Day",
+  "status": "Off Duty",
+  "hireDate": "2021-08-28",
+  "phone": "+51 9361482694"
+},
+{
+  "_id": {
+    "$oid": "6835a965bf281f2a363dca7b"
+  },
+  "id": "73",
+  "name": "Jacqueline Ray",
+  "employeeId": "EMP073",
+  "position": "Guard",
+  "department": "Administration",
+  "shift": "Day",
+  "status": "Off Duty",
+  "hireDate": "2021-08-19",
+  "phone": "+33 8982115920"
+},
+{
+  "_id": {
+    "$oid": "6835a965bf281f2a363dca7c"
+  },
+  "id": "74",
+  "name": "Deborah Colon MD",
+  "employeeId": "EMP074",
+  "position": "Warden",
+  "department": "Administration",
+  "shift": "Night",
+  "status": "Off Duty",
+  "hireDate": "2017-05-29",
+  "phone": "+61 9524356719"
+},
+{
+  "_id": {
+    "$oid": "6835a965bf281f2a363dca7d"
+  },
+  "id": "75",
+  "name": "Andrew Garcia",
+  "employeeId": "EMP075",
+  "position": "Clerk",
+  "department": "Security",
+  "shift": "Rotating",
+  "status": "Off Duty",
+  "hireDate": "2021-03-20",
+  "phone": "+61 9174211222"
+},
+{
+  "_id": {
+    "$oid": "6835a965bf281f2a363dca7e"
+  },
+  "id": "76",
+  "name": "Patrick Morton",
+  "employeeId": "EMP076",
+  "position": "Cook",
+  "department": "Administration",
+  "shift": "Day",
+  "status": "Off Duty",
+  "hireDate": "2021-02-23",
+  "phone": "+36 9782263393"
+},
+{
+  "_id": {
+    "$oid": "6835a965bf281f2a363dca7f"
+  },
+  "id": "77",
+  "name": "Cory Wang",
+  "employeeId": "EMP077",
+  "position": "Warden",
+  "department": "Administration",
+  "shift": "Day",
+  "status": "Off Duty",
+  "hireDate": "2023-12-17",
+  "phone": "+82 9314708935"
+},
+{
+  "_id": {
+    "$oid": "6835a965bf281f2a363dca80"
+  },
+  "id": "78",
+  "name": "Samantha Ho",
+  "employeeId": "EMP078",
+  "position": "Warden",
+  "department": "Maintenance",
+  "shift": "Day",
+  "status": "Off Duty",
+  "hireDate": "2016-10-15",
+  "phone": "+66 9191477116"
+},
+{
+  "_id": {
+    "$oid": "6835a965bf281f2a363dca81"
+  },
+  "id": "79",
+  "name": "Roberto Long",
+  "employeeId": "EMP079",
+  "position": "Technician",
+  "department": "Medical",
+  "shift": "Night",
+  "status": "Off Duty",
+  "hireDate": "2015-09-10",
+  "phone": "+4 9258903440"
+},
+{
+  "_id": {
+    "$oid": "6835a965bf281f2a363dca82"
+  },
+  "id": "80",
+  "name": "Mr. Douglas Mullins",
+  "employeeId": "EMP080",
+  "position": "Guard",
+  "department": "Security",
+  "shift": "Day",
+  "status": "Off Duty",
+  "hireDate": "2017-06-16",
+  "phone": "+8 9757549006"
+},
+{
+  "_id": {
+    "$oid": "6835a965bf281f2a363dca83"
+  },
+  "id": "81",
+  "name": "Sheila Burns",
+  "employeeId": "EMP081",
+  "position": "Cook",
+  "department": "Cafeteria",
+  "shift": "Rotating",
+  "status": "Off Duty",
+  "hireDate": "2018-05-01",
+  "phone": "+80 9086526037"
+},
+{
+  "_id": {
+    "$oid": "6835a965bf281f2a363dca84"
+  },
+  "id": "82",
+  "name": "Alicia Taylor",
+  "employeeId": "EMP082",
+  "position": "Nurse",
+  "department": "Security",
+  "shift": "Day",
+  "status": "Off Duty",
+  "hireDate": "2024-04-21",
+  "phone": "+18 9745030103"
+},
+{
+  "_id": {
+    "$oid": "6835a965bf281f2a363dca85"
+  },
+  "id": "83",
+  "name": "Stephanie Hanna",
+  "employeeId": "EMP083",
+  "position": "Warden",
+  "department": "Maintenance",
+  "shift": "Night",
+  "status": "Off Duty",
+  "hireDate": "2015-12-24",
+  "phone": "+40 9611721789"
+},
+{
+  "_id": {
+    "$oid": "6835a965bf281f2a363dca86"
+  },
+  "id": "84",
+  "name": "Lisa Reyes",
+  "employeeId": "EMP084",
+  "position": "Nurse",
+  "department": "Maintenance",
+  "shift": "Night",
+  "status": "Off Duty",
+  "hireDate": "2020-12-30",
+  "phone": "+76 9842579813"
+},
+{
+  "_id": {
+    "$oid": "6835a965bf281f2a363dca87"
+  },
+  "id": "85",
+  "name": "Matthew Spears",
+  "employeeId": "EMP085",
+  "position": "Cook",
+  "department": "Security",
+  "shift": "Day",
+  "status": "Off Duty",
+  "hireDate": "2016-10-30",
+  "phone": "+49 9145500632"
+},
+{
+  "_id": {
+    "$oid": "6835a965bf281f2a363dca88"
+  },
+  "id": "86",
+  "name": "Isaac Ferguson",
+  "employeeId": "EMP086",
+  "position": "Clerk",
+  "department": "Security",
+  "shift": "Night",
+  "status": "Off Duty",
+  "hireDate": "2024-01-24",
+  "phone": "+49 9738944704"
+},
+{
+  "_id": {
+    "$oid": "6835a965bf281f2a363dca89"
+  },
+  "id": "87",
+  "name": "Phyllis Gibson",
+  "employeeId": "EMP087",
+  "position": "Cook",
+  "department": "Medical",
+  "shift": "Rotating",
+  "status": "Off Duty",
+  "hireDate": "2021-12-19",
+  "phone": "+76 9726915192"
+},
+{
+  "_id": {
+    "$oid": "6835a965bf281f2a363dca8a"
+  },
+  "id": "88",
+  "name": "Ronald Oliver",
+  "employeeId": "EMP088",
+  "position": "Guard",
+  "department": "Cafeteria",
+  "shift": "Night",
+  "status": "Off Duty",
+  "hireDate": "2015-10-08",
+  "phone": "+12 9567383018"
+},
+{
+  "_id": {
+    "$oid": "6835a965bf281f2a363dca8b"
+  },
+  "id": "89",
+  "name": "Scott Byrd",
+  "employeeId": "EMP089",
+  "position": "Clerk",
+  "department": "Maintenance",
+  "shift": "Night",
+  "status": "Off Duty",
+  "hireDate": "2017-01-23",
+  "phone": "+33 9681650304"
+},
+{
+  "_id": {
+    "$oid": "6835aa0cbf281f2a363dca8c"
+  },
+  "id": "90",
+  "name": "John Doe",
+  "employeeId": "EMP001",
+  "position": "Manager",
+  "department": "Operations",
+  "shift": "Day",
+  "status": "On Leave",
+  "hireDate": "2020-01-15",
+  "phone": "+20 8957707287"
+},
+{
+  "_id": {
+    "$oid": "6835aa0cbf281f2a363dca8d"
+  },
+  "id": "91",
+  "name": "Jane Smith",
+  "employeeId": "EMP002",
+  "position": "Supervisor",
+  "department": "Production",
+  "shift": "Day",
+  "status": "On Leave",
+  "hireDate": "2019-05-22",
+  "phone": "+61 9812039197"
+},
+{
+  "_id": {
+    "$oid": "6835aa0cbf281f2a363dca8e"
+  },
+  "id": "92",
+  "name": "Robert Johnson",
+  "employeeId": "EMP003",
+  "position": "Technician",
+  "department": "Maintenance",
+  "shift": "Night",
+  "status": "On Leave",
+  "hireDate": "2018-11-30",
+  "phone": "+19 9684013165"
+},
+{
+  "_id": {
+    "$oid": "6835aa0cbf281f2a363dca8f"
+  },
+  "id": "93",
+  "name": "Emily Davis",
+  "employeeId": "EMP004",
+  "position": "Operator",
+  "department": "Production",
+  "shift": "Day",
+  "status": "On Leave",
+  "hireDate": "2021-03-10",
+  "phone": "+21 9460714291"
+},
+{
+  "_id": {
+    "$oid": "6835aa0cbf281f2a363dca90"
+  },
+  "id": "94",
+  "name": "Michael Brown",
+  "employeeId": "EMP005",
+  "position": "Engineer",
+  "department": "Engineering",
+  "shift": "Rotating",
+  "status": "On Leave",
+  "hireDate": "2017-09-14",
+  "phone": "+49 8946739657"
+},
+{
+  "_id": {
+    "$oid": "6835aa0cbf281f2a363dca91"
+  },
+  "id": "95",
+  "name": "Sarah Wilson",
+  "employeeId": "EMP006",
+  "position": "Analyst",
+  "department": "Quality Assurance",
+  "shift": "Day",
+  "status": "On Leave",
+  "hireDate": "2022-07-22",
+  "phone": "+0 9257519954"
+},
+{
+  "_id": {
+    "$oid": "6835aa0cbf281f2a363dca92"
+  },
+  "id": "96",
+  "name": "David Taylor",
+  "employeeId": "EMP007",
+  "position": "Coordinator",
+  "department": "Logistics",
+  "shift": "Day",
+  "status": "On Leave",
+  "hireDate": "2016-12-05",
+  "phone": "+21 9443660397"
+},
+{
+  "_id": {
+    "$oid": "6835aa0cbf281f2a363dca93"
+  },
+  "id": "97",
+  "name": "Jessica Martinez",
+  "employeeId": "EMP008",
+  "position": "Specialist",
+  "department": "Human Resources",
+  "shift": "Night",
+  "status": "On Leave",
+  "hireDate": "2023-02-18",
+  "phone": "+20 9368456371"
+},
+{
+  "_id": {
+    "$oid": "6835aa0cbf281f2a363dca94"
+  },
+  "id": "98",
+  "name": "Thomas Anderson",
+  "employeeId": "EMP009",
+  "position": "Assistant",
+  "department": "Administration",
+  "shift": "Day",
+  "status": "On Leave",
+  "hireDate": "2015-08-30",
+  "phone": "+5 9756730463"
+},
+{
+  "_id": {
+    "$oid": "6835aa0cbf281f2a363dca95"
+  },
+  "id": "99",
+  "name": "Lisa Jackson",
+  "employeeId": "EMP010",
+  "position": "Clerk",
+  "department": "Finance",
+  "shift": "Rotating",
+  "status": "On Leave",
+  "hireDate": "2020-10-11",
+  "phone": "+30 9290501478"
+},
+{
+  "_id": {
+    "$oid": "6835aabdbf281f2a363dca96"
+  },
+  "id": "100",
+  "name": "John Doe",
+  "employeeId": "EMP001",
+  "position": "Trainee Manager",
+  "department": "Operations",
+  "shift": "Day",
+  "status": "Training",
+  "hireDate": "2024-01-15",
+  "phone": "+38 9689054035"
+},
+{
+  "_id": {
+    "$oid": "6835aabdbf281f2a363dca97"
+  },
+  "id": "101",
+  "name": "Jane Smith",
+  "employeeId": "EMP002",
+  "position": "Trainee Supervisor",
+  "department": "Production",
+  "shift": "Day",
+  "status": "Training",
+  "hireDate": "2024-02-20",
+  "phone": "+52 9348501578"
+},
+{
+  "_id": {
+    "$oid": "6835aabdbf281f2a363dca98"
+  },
+  "id": "102",
+  "name": "Robert Johnson",
+  "employeeId": "EMP003",
+  "position": "Trainee Technician",
+  "department": "Maintenance",
+  "shift": "Night",
+  "status": "Training",
+  "hireDate": "2024-03-10",
+  "phone": "+49 9348004499"
+},
+{
+  "_id": {
+    "$oid": "6835aabdbf281f2a363dca99"
+  },
+  "id": "103",
+  "name": "Emily Davis",
+  "employeeId": "EMP004",
+  "position": "Trainee Operator",
+  "department": "Production",
+  "shift": "Day",
+  "status": "Training",
+  "hireDate": "2024-04-05",
+  "phone": "+32 8991844223"
+},
+{
+  "_id": {
+    "$oid": "6835aabdbf281f2a363dca9a"
+  },
+  "id": "104",
+  "name": "Michael Brown",
+  "employeeId": "EMP005",
+  "position": "Trainee Engineer",
+  "department": "Engineering",
+  "shift": "Rotating",
+  "status": "Training",
+  "hireDate": "2024-05-12",
+  "phone": "+0 9180006462"
+}]
