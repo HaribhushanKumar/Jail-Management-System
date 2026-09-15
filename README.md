@@ -17,7 +17,7 @@ A comprehensive, modern, full-stack enterprise web application for managing corr
 
 ```
 project/
-├── Frontend/                 # React + TypeScript Vite Application
+├── frontend/                 # React + TypeScript Vite Application
 │   ├── src/
 │   │   ├── config/
 │   │   │   └── apiConfig.ts  # Dynamic API Base URL resolver using .env
@@ -33,7 +33,7 @@ project/
 │   ├── .env.example          # Template for Environment Variables
 │   ├── vercel.json           # Single-Page Application Rewrites for Vercel
 │   └── package.json
-├── Backend/                  # Spring Boot Java REST API Application
+├── backend/                  # Spring Boot Java REST API Application
 │   ├── src/main/java/com/Prisonman/Prisonman/
 │   │   ├── Controller/       # REST API Controllers (Inmate, Staff, Visitor, Cell, Chatbot, etc.)
 │   │   ├── Model/            # MongoDB Data Models
@@ -51,8 +51,8 @@ project/
 
 All API request endpoints in the Frontend dynamically derive their base URL from the `.env` file via `src/config/apiConfig.ts`. No API endpoints are hardcoded in source files.
 
-### 1. Frontend `.env` File (`Frontend/.env`)
-Create a `.env` file inside the `Frontend/` folder (or copy from `.env.example`):
+### 1. Frontend `.env` File (`frontend/.env`)
+Create a `.env` file inside the `frontend/` folder (or copy from `.env.example`):
 
 ```env
 # Base URL for Spring Boot Backend API
@@ -61,8 +61,8 @@ VITE_API_BASE_URL=http://localhost:8080
 
 *For Production (Vercel): Set `VITE_API_BASE_URL` to your Render backend domain (e.g. `https://jail-management-backend.onrender.com`).*
 
-### 2. Backend `.env` File (`Backend/.env`)
-Create a `.env` file inside the `Backend/` folder (or copy from `.env.example`):
+### 2. Backend `.env` File (`backend/.env`)
+Create a `.env` file inside the `backend/` folder (or copy from `.env.example`):
 
 ```env
 MONGODB_USERNAME=rpy6425_db_user
@@ -72,11 +72,10 @@ MONGODB_DATABASE=prisonDB
 PORT=8080
 ```
 
-The backend properties in `Backend/src/main/resources/application.properties` dynamically map these variables:
+The backend properties in `backend/src/main/resources/application.properties` dynamically map these variables:
 - `PORT` (Default: `8080`): The HTTP port for the Spring Boot server.
 - `MONGODB_URI` (Default: `mongodb://localhost:27017/prisonDB`): The MongoDB Atlas or local connection URI.
 - `MONGODB_DATABASE` (Default: `prisonDB`): Target database name.
-
 
 ---
 
@@ -95,7 +94,7 @@ mongod --dbpath /path/to/data/db
 
 ### Step 2: Launch Backend (Spring Boot)
 ```bash
-cd Backend
+cd backend
 ./mvnw spring-boot:run
 # Or on Windows PowerShell:
 # .\mvnw.cmd spring-boot:run
@@ -104,7 +103,7 @@ The backend API server will start at `http://localhost:8080`.
 
 ### Step 3: Launch Frontend (React + Vite)
 ```bash
-cd Frontend
+cd frontend
 npm install
 npm run dev
 ```
@@ -118,7 +117,7 @@ Open your browser at `http://localhost:5173`.
 
 1. **Push your code** to GitHub/GitLab.
 2. Sign in to your [Vercel Dashboard](https://vercel.com) and click **"Add New Project"**.
-3. Import your repository and set the **Root Directory** to `Frontend`.
+3. Import your repository and set the **Root Directory** to `frontend`.
 4. Configure Build Settings:
    - **Framework Preset**: Vite
    - **Build Command**: `npm run build`
@@ -126,7 +125,7 @@ Open your browser at `http://localhost:5173`.
 5. **Add Environment Variable**:
    - **Key**: `VITE_API_BASE_URL`
    - **Value**: `https://your-backend-name.onrender.com` (Your live Backend URL on Render)
-6. Click **Deploy**. Vercel will automatically build and deploy your app. Single-page navigation routing is pre-configured via `Frontend/vercel.json`.
+6. Click **Deploy**. Vercel will automatically build and deploy your app. Single-page navigation routing is pre-configured via `frontend/vercel.json`.
 
 ---
 
@@ -135,16 +134,16 @@ Open your browser at `http://localhost:5173`.
 #### Option A: Docker Deployment (Recommended)
 1. Sign in to [Render Dashboard](https://render.com) and click **"New Web Service"**.
 2. Connect your repository.
-3. Set **Root Directory** to `Backend`.
-4. Select **Runtime**: `Docker`. Render will automatically detect `Backend/Dockerfile`.
+3. Set **Root Directory** to `backend`.
+4. Select **Runtime**: `Docker`. Render will automatically detect `backend/Dockerfile`.
 5. Under **Environment Variables**, add:
-   - `MONGODB_URI`: Your MongoDB Atlas Connection String (e.g. `mongodb+srv://<username>:<password>@cluster0.mongodb.net/prisonDB?retryWrites=true&w=majority`)
+   - `MONGODB_URI`: Your MongoDB Atlas Connection String (`mongodb+srv://rpy6425_db_user:PcEi6bk2p93GRfiL@cluster0.3f1kdpp.mongodb.net/prisonDB?retryWrites=true&w=majority`)
    - `PORT`: `8080` (or leave default as Render injects `PORT`)
 6. Click **Create Web Service**.
 
 #### Option B: Native Maven Environment
 1. Click **"New Web Service"** on Render.
-2. Set **Root Directory** to `Backend`.
+2. Set **Root Directory** to `backend`.
 3. Select **Environment**: `Java`.
 4. Set **Build Command**: `./mvnw clean package -DskipTests`
 5. Set **Start Command**: `java -jar target/Prisonman-0.0.1-SNAPSHOT.jar`
@@ -175,7 +174,7 @@ Open your browser at `http://localhost:5173`.
 ## 🛡️ Key Features & UX Highlights
 
 - **Pure White Aesthetic**: Ultra-clean, modern, white visual theme with high-contrast readable typography and subtle slate borders.
-- **Dynamic API Config**: 100% centralized API URL resolution using `Frontend/.env`.
+- **Dynamic API Config**: 100% centralized API URL resolution using `frontend/.env`.
 - **Persistent Session State**: 8-hour auth session storage preventing unexpected logouts on page refresh.
 - **Embedded Jail AI Assistant**: Built-in interactive floating RAG Chatbot in the bottom-right corner trained on all facility operations and management modules.
 - **Full CRUD Capabilities**: Add, view, edit, update, and delete functionality across all facility management tables.
