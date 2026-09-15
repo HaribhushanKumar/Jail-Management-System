@@ -9,6 +9,7 @@ import VisitorsPanel from './panels/VisitorsPanel';
 import CellsPanel from './panels/CellsPanel';
 import ReportsPanel from './panels/ReportsPanel';
 import SettingsPanel from './panels/SettingsPanel';
+import { ApiConfigBanner } from './ApiConfigBanner';
 import DashboardHome from './DashboardHome';
 
 interface DashboardProps {
@@ -46,30 +47,33 @@ const Dashboard = ({ currentUser, onLogout }: DashboardProps) => {
   };
 
   return (
-    <div className="min-h-screen bg-white flex">
-      <Sidebar 
-        activePanel={activePanel} 
-        setActivePanel={setActivePanel}
-        isOpen={sidebarOpen}
-        setIsOpen={setSidebarOpen}
-        onLogout={onLogout}
-      />
-      
-      <div className={`flex-1 flex flex-col transition-all duration-300 ${sidebarOpen ? 'ml-52' : 'ml-16'}`}>
-        <Header 
-          currentUser={currentUser} 
-          toggleSidebar={() => setSidebarOpen(!sidebarOpen)}
+    <div className="min-h-screen bg-white flex flex-col">
+      <ApiConfigBanner />
+      <div className="flex flex-1">
+        <Sidebar 
+          activePanel={activePanel} 
+          setActivePanel={setActivePanel}
+          isOpen={sidebarOpen}
+          setIsOpen={setSidebarOpen}
+          onLogout={onLogout}
         />
         
-        <main className="flex-1 p-6 bg-white">
-          {renderActivePanel()}
-        </main>
+        <div className={`flex-1 flex flex-col transition-all duration-300 ${sidebarOpen ? 'ml-52' : 'ml-16'}`}>
+          <Header 
+            currentUser={currentUser} 
+            toggleSidebar={() => setSidebarOpen(!sidebarOpen)}
+          />
+          
+          <main className="flex-1 p-6 bg-white">
+            {renderActivePanel()}
+          </main>
 
-        <Footer />
+          <Footer />
+        </div>
+
+        {/* RAG-based Chatbot Assistant (Bottom Right) */}
+        <JailChatbot />
       </div>
-
-      {/* RAG-based Chatbot Assistant (Bottom Right) */}
-      <JailChatbot />
     </div>
   );
 };
