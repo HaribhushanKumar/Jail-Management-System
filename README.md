@@ -142,6 +142,8 @@ Open your browser at `http://localhost:5173`.
 5. Under **Environment Variables**, add:
    - `MONGODB_URI`: `mongodb+srv://rpy6425_db_user:PcEi6bk2p93GRfiL@cluster0.3f1kdpp.mongodb.net/prisonDB?retryWrites=true&w=majority`
    - `PORT`: `8080`
+> [!NOTE]
+> In MongoDB Atlas Dashboard ➔ Network Access, ensure you have added `0.0.0.0/0` (Allow Access from Anywhere) so Render's cloud servers can connect to your MongoDB cluster.
 6. Click **Create Web Service**.
 
 #### Option B: Java Runtime
